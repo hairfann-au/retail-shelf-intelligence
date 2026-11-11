@@ -1,0 +1,2401 @@
+aisle_slot,aisle_id,aisle,shelf,position,product_id,product_name
+0,24,fresh fruits,0,0,260,Cantaloupe
+0,24,fresh fruits,0,1,21288,Blackberries
+0,24,fresh fruits,0,2,38159,Organic Yellow Peaches
+0,24,fresh fruits,0,3,46969,Organic Bosc Pear
+0,24,fresh fruits,0,4,38456,Large Grapefruit
+0,24,fresh fruits,1,0,39877,Organic Granny Smith Apple
+0,24,fresh fruits,1,1,39928,Organic Kiwi
+0,24,fresh fruits,1,2,5450,Small Hass Avocado
+0,24,fresh fruits,1,3,22825,Organic D'Anjou Pears
+0,24,fresh fruits,1,4,8174,Organic Navel Orange
+0,24,fresh fruits,2,0,47626,Large Lemon
+0,24,fresh fruits,2,1,16797,Strawberries
+0,24,fresh fruits,2,2,26209,Limes
+0,24,fresh fruits,2,3,28204,Organic Fuji Apple
+0,24,fresh fruits,2,4,5876,Organic Lemon
+0,24,fresh fruits,3,0,24852,Banana
+0,24,fresh fruits,3,1,13176,Bag of Organic Bananas
+0,24,fresh fruits,3,2,21137,Organic Strawberries
+0,24,fresh fruits,3,3,47209,Organic Hass Avocado
+0,24,fresh fruits,3,4,47766,Organic Avocado
+0,24,fresh fruits,4,0,8277,Apple Honeycrisp Organic
+0,24,fresh fruits,4,1,45066,Honeycrisp Apple
+0,24,fresh fruits,4,2,19057,Organic Large Extra Fancy Fuji Apple
+0,24,fresh fruits,4,3,37646,Organic Gala Apples
+0,24,fresh fruits,4,4,26604,Organic Blackberries
+0,24,fresh fruits,5,0,46906,Grape White/Green Seedless
+0,24,fresh fruits,5,1,43122,Organic Bartlett Pear
+0,24,fresh fruits,5,2,9387,Granny Smith Apples
+0,24,fresh fruits,5,3,41787,Bartlett Pears
+0,24,fresh fruits,5,4,39408,Gala Apples
+0,24,fresh fruits,6,0,37067,Organic Banana
+0,24,fresh fruits,6,1,25340,Large Yellow Flesh Nectarine
+0,24,fresh fruits,6,2,11782,Bing Cherries
+0,24,fresh fruits,6,3,25588,Seedless Small Watermelon
+0,24,fresh fruits,6,4,17122,Honeycrisp Apples
+0,24,fresh fruits,7,0,31915,Organic Red Delicious Apple
+0,24,fresh fruits,7,1,19706,Organic Nectarine
+0,24,fresh fruits,7,2,40723,Organic Cripps Pink Apples
+0,24,fresh fruits,7,3,13575,Apples
+0,24,fresh fruits,7,4,32177,Blood Oranges
+1,83,fresh vegetables,0,0,9839,Organic Broccoli
+1,83,fresh vegetables,0,1,34358,Garlic
+1,83,fresh vegetables,0,2,16759,Organic Carrot Bunch
+1,83,fresh vegetables,0,3,41220,Organic Romaine Lettuce
+1,83,fresh vegetables,0,4,19678,Organic Russet Potato
+1,83,fresh vegetables,1,0,24184,Red Peppers
+1,83,fresh vegetables,1,1,34969,Red Vine Tomato
+1,83,fresh vegetables,1,2,46667,Organic Ginger Root
+1,83,fresh vegetables,1,3,48679,Organic Garnet Sweet Potato (Yam)
+1,83,fresh vegetables,1,4,27521,Organic Lacinato (Dinosaur) Kale
+1,83,fresh vegetables,2,0,17794,Carrots
+1,83,fresh vegetables,2,1,4605,Yellow Onions
+1,83,fresh vegetables,2,2,27104,Fresh Cauliflower
+1,83,fresh vegetables,2,3,46979,Asparagus
+1,83,fresh vegetables,2,4,44359,Organic Small Bunch Celery
+1,83,fresh vegetables,3,0,22935,Organic Yellow Onion
+1,83,fresh vegetables,3,1,24964,Organic Garlic
+1,83,fresh vegetables,3,2,45007,Organic Zucchini
+1,83,fresh vegetables,3,3,49683,Cucumber Kirby
+1,83,fresh vegetables,3,4,30391,Organic Cucumber
+1,83,fresh vegetables,4,0,28985,Michigan Organic Kale
+1,83,fresh vegetables,4,1,8518,Organic Red Onion
+1,83,fresh vegetables,4,2,41950,Organic Tomato Cluster
+1,83,fresh vegetables,4,3,10749,Organic Red Bell Pepper
+1,83,fresh vegetables,4,4,21938,Green Bell Pepper
+1,83,fresh vegetables,5,0,20114,Jalapeno Peppers
+1,83,fresh vegetables,5,1,44142,Red Onion
+1,83,fresh vegetables,5,2,8424,Broccoli Crown
+1,83,fresh vegetables,5,3,29487,Roma Tomato
+1,83,fresh vegetables,5,4,15290,Orange Bell Pepper
+1,83,fresh vegetables,6,0,34243,Organic Baby Broccoli
+1,83,fresh vegetables,6,1,26369,Organic Roma Tomato
+1,83,fresh vegetables,6,2,8193,Russet Potato
+1,83,fresh vegetables,6,3,14992,Green Beans
+1,83,fresh vegetables,6,4,21405,"Organic Red Radish, Bunch"
+1,83,fresh vegetables,7,0,5025,Green Onions
+1,83,fresh vegetables,7,1,2295,Yellow Bell Pepper
+1,83,fresh vegetables,7,2,31553,Fresh Ginger Root
+1,83,fresh vegetables,7,3,10246,Organic Celery Hearts
+1,83,fresh vegetables,7,4,36695,Organic Hothouse Cucumbers
+2,123,packaged vegetables fruits,0,0,21174,I Heart Baby Kale
+2,123,packaged vegetables fruits,0,1,40516,Organic Romaine Hearts
+2,123,packaged vegetables fruits,0,2,11140,Organic Romaine Leaf
+2,123,packaged vegetables fruits,0,3,29307,Baby Arugula
+2,123,packaged vegetables fruits,0,4,26800,Organic Baby Kale Mix
+2,123,packaged vegetables fruits,1,0,38777,Organic Green Seedless Grapes
+2,123,packaged vegetables fruits,1,1,44910,Organic Spring Mix Salad
+2,123,packaged vegetables fruits,1,2,28289,Organic Shredded Carrots
+2,123,packaged vegetables fruits,1,3,32864,Organic Baby Rainbow Carrots
+2,123,packaged vegetables fruits,1,4,25931,Organic Baby Spinach Salad
+2,123,packaged vegetables fruits,2,0,42265,Organic Baby Carrots
+2,123,packaged vegetables fruits,2,1,21616,Organic Baby Arugula
+2,123,packaged vegetables fruits,2,2,43961,Organic Peeled Whole Baby Carrots
+2,123,packaged vegetables fruits,2,3,28199,"Clementines, Bag"
+2,123,packaged vegetables fruits,2,4,37687,Organic Spring Mix
+2,123,packaged vegetables fruits,3,0,21903,Organic Baby Spinach
+2,123,packaged vegetables fruits,3,1,27966,Organic Raspberries
+2,123,packaged vegetables fruits,3,2,39275,Organic Blueberries
+2,123,packaged vegetables fruits,3,3,40706,Organic Grape Tomatoes
+2,123,packaged vegetables fruits,3,4,4920,Seedless Red Grapes
+2,123,packaged vegetables fruits,4,0,11777,Red Raspberries
+2,123,packaged vegetables fruits,4,1,32689,Romaine Hearts
+2,123,packaged vegetables fruits,4,2,5212,Watermelon Chunks
+2,123,packaged vegetables fruits,4,3,24830,Organic Romaine
+2,123,packaged vegetables fruits,4,4,11182,Baby Spinach
+2,123,packaged vegetables fruits,5,0,48205,Spinach
+2,123,packaged vegetables fruits,5,1,43086,Super Greens Salad
+2,123,packaged vegetables fruits,5,2,37766,XL Emerald White Seedless Grapes
+2,123,packaged vegetables fruits,5,3,36070,"Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale"
+2,123,packaged vegetables fruits,5,4,27336,Organic Rainbow Carrots
+2,123,packaged vegetables fruits,6,0,21872,Organic Italian Salad
+2,123,packaged vegetables fruits,6,1,22849,Bunny-Luv Fresh Organic Carrots
+2,123,packaged vegetables fruits,6,2,46069,Supergreens!
+2,123,packaged vegetables fruits,6,3,32465,Sliced White Mushrooms
+2,123,packaged vegetables fruits,6,4,16616,Organic Sliced White Mushrooms
+2,123,packaged vegetables fruits,7,0,1408,Mini Cucumbers
+2,123,packaged vegetables fruits,7,1,39040,Organic Sliced Crimini Mushrooms
+2,123,packaged vegetables fruits,7,2,39922,Celery Sticks
+2,123,packaged vegetables fruits,7,3,38028,White Sliced Mushrooms
+2,123,packaged vegetables fruits,7,4,33352,Organic Kale Greens
+3,120,yogurt,0,0,8309,Nonfat Icelandic Style Strawberry Yogurt
+3,120,yogurt,0,1,24954,Total 0% with Honey Nonfat Greek Strained Yogurt
+3,120,yogurt,0,2,17758,Strawberry Rhubarb Yoghurt
+3,120,yogurt,0,3,18926,Fat Free Strawberry Yogurt
+3,120,yogurt,0,4,40198,Blueberry Yoghurt
+3,120,yogurt,1,0,42244,Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt
+3,120,yogurt,1,1,28156,Total 0% Nonfat Plain Greek Yogurt
+3,120,yogurt,1,2,11422,Plain Greek Yogurt
+3,120,yogurt,1,3,42445,Organic Plain Whole Milk Yogurt
+3,120,yogurt,1,4,38928,0% Greek Strained Yogurt
+3,120,yogurt,2,0,33787,Total 2% Lowfat Greek Strained Yogurt with Peach
+3,120,yogurt,2,1,4957,Total 2% Lowfat Greek Strained Yogurt With Blueberry
+3,120,yogurt,2,2,17600,"YoKids Squeezers Organic Low-Fat Yogurt, Strawberry"
+3,120,yogurt,2,3,28465,Icelandic Style Skyr Blueberry Non-fat Yogurt
+3,120,yogurt,2,4,24799,Vanilla Skyr Nonfat Yogurt
+3,120,yogurt,3,0,33754,Total 2% with Strawberry Lowfat Greek Strained Yogurt
+3,120,yogurt,3,1,46676,Total 0% Nonfat Greek Yogurt
+3,120,yogurt,3,2,39475,Total Greek Strained Yogurt
+3,120,yogurt,3,3,20842,Total 0% Greek Yogurt
+3,120,yogurt,3,4,18523,Total 2% All Natural Greek Strained Yogurt with Honey
+3,120,yogurt,4,0,40571,Total 2% Greek Strained Yogurt with Cherry 5.3 oz
+3,120,yogurt,4,1,30169,Total 2% All Natural Plain Greek Yogurt
+3,120,yogurt,4,2,17872,Total 2% Lowfat Plain Greek Yogurt
+3,120,yogurt,4,3,36865,Non Fat Raspberry Yogurt
+3,120,yogurt,4,4,6104,Whole Milk Plain Yogurt
+3,120,yogurt,5,0,22124,Total 0% Raspberry Yogurt
+3,120,yogurt,5,1,46584,YoKids Blueberry & Strawberry/Vanilla Yogurt
+3,120,yogurt,5,2,43662,"Yogurt, Strained Low-Fat, Coconut"
+3,120,yogurt,5,3,35628,Organic Strawberry Smoothie
+3,120,yogurt,5,4,25138,Organic Plain Greek Whole Milk Yogurt
+3,120,yogurt,6,0,44008,Organic Greek Whole Milk Blended Vanilla Bean Yogurt
+3,120,yogurt,6,1,11512,Honey Yoghurt
+3,120,yogurt,6,2,31215,Lemon Yogurt
+3,120,yogurt,6,3,47912,Vanilla Skyr Style Yogurt
+3,120,yogurt,6,4,13263,Non Fat Acai & Mixed Berries Yogurt
+3,120,yogurt,7,0,5550,YoBaby Peach Pear Yogurt
+3,120,yogurt,7,1,12099,Honey Greek Yogurt
+3,120,yogurt,7,2,7156,Traditional Plain Greek Yogurt
+3,120,yogurt,7,3,10912,Lowfat Vanilla Yogurt
+3,120,yogurt,7,4,10831,Yobaby Organic Plain Yogurt
+4,21,packaged cheese,0,0,45646,Grated Parmesan Cheese
+4,21,packaged cheese,0,1,3990,Natural Sharp Cheddar Sliced Cheese
+4,21,packaged cheese,0,2,17008,Shredded Sharp Cheddar Cheese
+4,21,packaged cheese,0,3,6615,Mozzarella Cheese
+4,21,packaged cheese,0,4,25837,Mini Babybel Light Semisoft Edam Cheeses
+4,21,packaged cheese,1,0,27548,Original Semisoft Cheese
+4,21,packaged cheese,1,1,3298,Mozzarella String Cheese
+4,21,packaged cheese,1,2,11068,Medium Cheddar Cheese Block
+4,21,packaged cheese,1,3,781,Organic Shredded Mild Cheddar
+4,21,packaged cheese,1,4,38772,Provolone
+4,21,packaged cheese,2,0,16185,Sharp Cheddar Cheese
+4,21,packaged cheese,2,1,31343,Shredded Mild Cheddar Cheese
+4,21,packaged cheese,2,2,29987,Shredded Mozzarella
+4,21,packaged cheese,2,3,18370,Organic Shredded Mozzarella
+4,21,packaged cheese,2,4,41665,Organic Mexican Blend Finely Shredded Cheese
+4,21,packaged cheese,3,0,22035,Organic Whole String Cheese
+4,21,packaged cheese,3,1,33731,Grated Parmesan
+4,21,packaged cheese,3,2,4799,Shredded Parmesan
+4,21,packaged cheese,3,3,7781,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese
+4,21,packaged cheese,3,4,40604,Feta Cheese Crumbles
+4,21,packaged cheese,4,0,10132,Organic American Cheese Singles
+4,21,packaged cheese,4,1,6348,Mini Original Babybel Cheese
+4,21,packaged cheese,4,2,33401,Goat Cheese Crumbles
+4,21,packaged cheese,4,3,44765,Colby Cheese Sticks
+4,21,packaged cheese,4,4,17949,Mild Cheddar Cheese Sticks
+4,21,packaged cheese,5,0,18594,Emmentaler Swiss Slices
+4,21,packaged cheese,5,1,4367,Garlic & Fine Herbs Gournay Cheese
+4,21,packaged cheese,5,2,44479,Organic Stringles Mozzarella String Cheese
+4,21,packaged cheese,5,3,16617,Organic Muenster Cheese Slices
+4,21,packaged cheese,5,4,7131,Light Semisoft Cheese
+4,21,packaged cheese,6,0,46650,Special Reserve Extra Sharp Cheddar Cheese
+4,21,packaged cheese,6,1,41593,Blue Cheese Crumbles
+4,21,packaged cheese,6,2,25133,Organic String Cheese
+4,21,packaged cheese,6,3,5337,Monterey Jack Cheese
+4,21,packaged cheese,6,4,43867,100% Grated Parmesan Cheese
+4,21,packaged cheese,7,0,47526,Goat Cheese Log
+4,21,packaged cheese,7,1,10895,Mexican Finely Shredded Cheese
+4,21,packaged cheese,7,2,26032,Dairy Free Mozarella Style Shreds
+4,21,packaged cheese,7,3,23644,Sharp Cheddar Thick Slices Cheese
+4,21,packaged cheese,7,4,6193,Organic Fancy Shredded Mozzarella Cheese
+5,84,milk,0,0,45504,Whole Organic Omega 3 Milk
+5,84,milk,0,1,31981,1% Low Fat Milk
+5,84,milk,0,2,32747,Low Fat 1% Milk
+5,84,milk,0,3,36929,"Milk, Vitamin D"
+5,84,milk,0,4,3583,Unsweetened Coconut Milk Beverage
+5,84,milk,1,0,13249,Skim Milk
+5,84,milk,1,1,20082,Organic Whole Milk with DHA Omega-3
+5,84,milk,1,2,1511,2% Reduced Fat DHA Omega-3 Reduced Fat Milk
+5,84,milk,1,3,13166,"Organic Milk Reduced Fat, 2% Milkfat"
+5,84,milk,1,4,10070,Organic 1% Low Fat Milk
+5,84,milk,2,0,19348,Fat Free Milk
+5,84,milk,2,1,1463,Organic Milk
+5,84,milk,2,2,36011,Organic Fat Free Milk
+5,84,milk,2,3,1940,Organic 2% Reduced Fat Milk
+5,84,milk,2,4,29447,"Milk, Organic, Vitamin D"
+5,84,milk,3,0,27845,Organic Whole Milk
+5,84,milk,3,1,5785,Organic Reduced Fat 2% Milk
+5,84,milk,3,2,23909,2% Reduced Fat Milk
+5,84,milk,3,3,4210,Whole Milk
+5,84,milk,3,4,38689,Organic Reduced Fat Milk
+5,84,milk,4,0,32478,Reduced Fat 2% Milk
+5,84,milk,4,1,40174,2% Reduced Fat Organic Milk
+5,84,milk,4,2,329,Organic Whole Grassmilk Milk
+5,84,milk,4,3,39180,Organic Lowfat 1% Milk
+5,84,milk,4,4,24024,1% Lowfat Milk
+5,84,milk,5,0,17316,Vitamin D Organic Whole Milk
+5,84,milk,5,1,31720,Organic  Whole Milk
+5,84,milk,5,2,35914,Dha Omega 3 Reduced Fat 2% Milk
+5,84,milk,5,3,32403,Fat Free Skim Milk
+5,84,milk,5,4,5612,Reduced Fat Milk
+5,84,milk,6,0,28427,Vitamin D Whole Milk
+5,84,milk,6,1,2962,"Milk, Reduced Fat, 2% Milkfat"
+5,84,milk,6,2,32566,Dha Omega 3 Vitamin D Milk
+5,84,milk,6,3,20940,Organic Low Fat Milk
+5,84,milk,6,4,22089,Vitamin D Milk
+5,84,milk,7,0,25256,Cultured Low Fat Buttermilk
+5,84,milk,7,1,34197,Goat Milk
+5,84,milk,7,2,19820,Grassmilk 2% Reduced Fat Milk
+5,84,milk,7,3,26346,Organic Skim Milk
+5,84,milk,7,4,2748,Organic Reduced Fat Omega-3 Milk
+6,115,water seltzer sparkling water,0,0,30353,Curate Cherry Lime Sparkling Water
+6,115,water seltzer sparkling water,0,1,12576,Kiwi Sandia Sparkling Water
+6,115,water seltzer sparkling water,0,2,31964,Passionfruit Sparkling Water
+6,115,water seltzer sparkling water,0,3,12606,100% Natural Spring Water
+6,115,water seltzer sparkling water,0,4,45747,Curate Melon Pomelo Sparking Water
+6,115,water seltzer sparkling water,1,0,14233,Natural Artesian Water
+6,115,water seltzer sparkling water,1,1,25466,Water
+6,115,water seltzer sparkling water,1,2,5258,Sparkling Water
+6,115,water seltzer sparkling water,1,3,21386,Smartwater
+6,115,water seltzer sparkling water,1,4,15424,Purified Water
+6,115,water seltzer sparkling water,2,0,5479,Italian Sparkling Mineral Water
+6,115,water seltzer sparkling water,2,1,14947,Pure Sparkling Water
+6,115,water seltzer sparkling water,2,2,26620,Peach Pear Flavored Sparkling Water
+6,115,water seltzer sparkling water,2,3,26165,Electrolyte Enhanced Water
+6,115,water seltzer sparkling water,2,4,8859,Natural Spring Water
+6,115,water seltzer sparkling water,3,0,44632,Sparkling Water Grapefruit
+6,115,water seltzer sparkling water,3,1,19660,Spring Water
+6,115,water seltzer sparkling water,3,2,35221,Lime Sparkling Water
+6,115,water seltzer sparkling water,3,3,33198,Sparkling Natural Mineral Water
+6,115,water seltzer sparkling water,3,4,21709,Sparkling Lemon Water
+6,115,water seltzer sparkling water,4,0,43154,Sparkling Mineral Water
+6,115,water seltzer sparkling water,4,1,20119,Sparkling Water Berry
+6,115,water seltzer sparkling water,4,2,23288,Distilled Water
+6,115,water seltzer sparkling water,4,3,47977,Grapefruit Sparkling Water
+6,115,water seltzer sparkling water,4,4,49520,Orange Sparkling Water
+6,115,water seltzer sparkling water,5,0,39947,Blackberry Cucumber Sparkling Water
+6,115,water seltzer sparkling water,5,1,1194,Natural Artisan Water
+6,115,water seltzer sparkling water,5,2,49191,Cran Raspberry Sparkling Water
+6,115,water seltzer sparkling water,5,3,27325,Alpine Spring Water
+6,115,water seltzer sparkling water,5,4,36316,Lemon Sparkling Water
+6,115,water seltzer sparkling water,6,0,22802,Mineral Water
+6,115,water seltzer sparkling water,6,1,9623,Sparkling Natural Spring Water
+6,115,water seltzer sparkling water,6,2,22556,All Natural Apricot Sparkling Water
+6,115,water seltzer sparkling water,6,3,13944,Pure Water
+6,115,water seltzer sparkling water,6,4,18023,Organic Coconut Water
+6,115,water seltzer sparkling water,7,0,40939,Drinking Water
+6,115,water seltzer sparkling water,7,1,27985,Smartwater Electrolyte Enhanced Water
+6,115,water seltzer sparkling water,7,2,6182,Natural Artesian Bottled Water
+6,115,water seltzer sparkling water,7,3,36107,smartwater® Electrolyte Enhanced Water
+6,115,water seltzer sparkling water,7,4,24186,Slim Can Pink Grapefruit Natural Mineral Water
+7,107,chips pretzels,0,0,14858,Multigrain Pita Chips
+7,107,chips pretzels,0,1,44548,Barbecue Potato Chips
+7,107,chips pretzels,0,2,38185,Hint of Lime Flavored Tortilla Chips
+7,107,chips pretzels,0,3,19734,Classic Mix Variety
+7,107,chips pretzels,0,4,33647,Blue Chips Corn Tortilla Chips
+7,107,chips pretzels,1,0,7644,Scoops! Tortilla Chips
+7,107,chips pretzels,1,1,46226,Thick & Crispy Tortilla Chips
+7,107,chips pretzels,1,2,20580,Original Real Vegetable Chips
+7,107,chips pretzels,1,3,46692,Multigrain Tortilla Chips
+7,107,chips pretzels,1,4,16589,Plantain Chips
+7,107,chips pretzels,2,0,18288,Sea Salt Potato Chips
+7,107,chips pretzels,2,1,13380,Organic Blue Corn Tortilla Chips
+7,107,chips pretzels,2,2,25824,Pita Chips Simply Naked
+7,107,chips pretzels,2,3,24841,Aged White Cheddar Baked Rice & Corn Puffs Gluten Free Lunch Packs
+7,107,chips pretzels,2,4,11759,Organic Simply Naked Pita Chips
+7,107,chips pretzels,3,0,13870,Lightly Salted Baked Snap Pea Crisps
+7,107,chips pretzels,3,1,31040,Sea Salt Pita Chips
+7,107,chips pretzels,3,2,21376,Pretzel Crisps Original Deli Style Pretzel Crackers
+7,107,chips pretzels,3,3,40709,Sea Salt & Vinegar Potato Chips
+7,107,chips pretzels,3,4,35561,Organic Tortilla Chips
+7,107,chips pretzels,4,0,11576,Corn Chips
+7,107,chips pretzels,4,1,6489,Backyard Barbeque Potato Chips
+7,107,chips pretzels,4,2,14633,Veggie Chips
+7,107,chips pretzels,4,3,8555,Sweet Potato Tortilla Chips
+7,107,chips pretzels,4,4,19006,Dark Chocolate Pretzels with Sea Salt
+7,107,chips pretzels,5,0,17835,Thin & Light Tortilla Chips
+7,107,chips pretzels,5,1,46049,Salt & Pepper Krinkle Chips
+7,107,chips pretzels,5,2,47866,Jalapeno Potato Chips
+7,107,chips pretzels,5,3,23645,Sour Cream & Onion Potato Chips
+7,107,chips pretzels,5,4,47357,Original Restaurant Style Tortilla Chips
+7,107,chips pretzels,6,0,2732,Gluten Free Pretzel Sticks
+7,107,chips pretzels,6,1,36076,Everything Deli Style Pretzel Crisps Crackers
+7,107,chips pretzels,6,2,19863,Classic Potato Chips
+7,107,chips pretzels,6,3,34862,Tiny Twists Pretzels
+7,107,chips pretzels,6,4,3397,Organic Lightly Salted Sea Salt Thin & Crispy Restaurant Style Tortilla Chips
+7,107,chips pretzels,7,0,15386,Whole Grain White Corn Salted Tortilla Chips
+7,107,chips pretzels,7,1,45437,Sea Salt Made With Organic Grain Rice Chips
+7,107,chips pretzels,7,2,45051,Pub Mix
+7,107,chips pretzels,7,3,48109,"Tortilla Chips, Clasico, Jalapeno Lime"
+7,107,chips pretzels,7,4,41165,Cheese Puffs
+8,91,soy lactosefree,0,0,13712,Cold Brew Coffee Double Espresso with Almond Milk
+8,91,soy lactosefree,0,1,12545,French Vanilla Coconut Milk Creamer
+8,91,soy lactosefree,0,2,18670,Original Enriched Rice Drink
+8,91,soy lactosefree,0,3,15399,"Almondmilk Creamer, Vanilla"
+8,91,soy lactosefree,0,4,4781,Original Coconut Milk Creamer
+8,91,soy lactosefree,1,0,22959,Reduced Fat Milk 100% Lactose Free
+8,91,soy lactosefree,1,1,45104,ALMONDBREEZE UNSWEETENED
+8,91,soy lactosefree,1,2,43394,Organic Lactose Free Whole Milk
+8,91,soy lactosefree,1,3,48104,Organic Lite Coconut Milk
+8,91,soy lactosefree,1,4,4942,Vanilla Almond Breeze
+8,91,soy lactosefree,2,0,43295,Unsweetened Vanilla Almond Milk
+8,91,soy lactosefree,2,1,14084,Organic Unsweetened Vanilla Almond Milk
+8,91,soy lactosefree,2,2,19677,Original Pure Creamy Almond Milk
+8,91,soy lactosefree,2,3,4472,Toasted Coconut Almondmilk Blend
+8,91,soy lactosefree,2,4,7175,Organic Whipped Naturally Buttery Spread
+8,91,soy lactosefree,3,0,35951,Organic Unsweetened Almond Milk
+8,91,soy lactosefree,3,1,24838,Unsweetened Almondmilk
+8,91,soy lactosefree,3,2,47144,Unsweetened Original Almond Breeze Almond Milk
+8,91,soy lactosefree,3,3,432,Vanilla Almond Breeze Almond Milk
+8,91,soy lactosefree,3,4,25659,Organic Coconut Milk
+8,91,soy lactosefree,4,0,35503,Organic Vanilla Almond Milk
+8,91,soy lactosefree,4,1,46820,Vanilla Pure Almond Milk
+8,91,soy lactosefree,4,2,39190,Vanilla Unsweetened Almond Milk
+8,91,soy lactosefree,4,3,27730,Almond Breeze Original Almond Milk
+8,91,soy lactosefree,4,4,6948,Organic Original Almond Milk
+8,91,soy lactosefree,5,0,29127,Dairy Free Unsweetened Coconut Milk
+8,91,soy lactosefree,5,1,12384,Organic Lactose Free 1% Lowfat Milk
+8,91,soy lactosefree,5,2,33572,Lactose Free 2% Reduced Fat Milk
+8,91,soy lactosefree,5,3,49610,100% Lactose Free Fat Free Milk
+8,91,soy lactosefree,5,4,6347,Unsweetened Almond Milk
+8,91,soy lactosefree,6,0,5120,Organic Vanilla Soymilk
+8,91,soy lactosefree,6,1,3765,Original Whole Fat Lactose Free Milk
+8,91,soy lactosefree,6,2,27247,Original Soy Creamer
+8,91,soy lactosefree,6,3,17789,Soy Free Buttery Spread
+8,91,soy lactosefree,6,4,15541,Original Almondmilk
+8,91,soy lactosefree,7,0,40852,Lactose Free Fat Free Milk
+8,91,soy lactosefree,7,1,5640,Vanilla Soy Creamer
+8,91,soy lactosefree,7,2,9955,Unsweetened Organic Coconut Milk
+8,91,soy lactosefree,7,3,25804,Original Soy Milk
+8,91,soy lactosefree,7,4,43858,Original Coconut Milk Beverage
+9,112,bread,0,0,32665,Organic Ezekiel 49 Bread Cinnamon Raisin
+9,112,bread,0,1,32211,Whole Grains Oatnut Bread
+9,112,bread,0,2,24235,Honey Wheat Enriched Bread
+9,112,bread,0,3,17044,French Baguette
+9,112,bread,0,4,28058,Gluten Free Sliced Mountain White Bread
+9,112,bread,1,0,8467,Cinnamon Raisin Bread
+9,112,bread,1,1,29615,"Bread, Country Buttermilk"
+9,112,bread,1,2,45064,Honey Wheat Bread
+9,112,bread,1,3,20583,Sourdough Baguette
+9,112,bread,1,4,13702,Good Seed Organic Thin Sliced Bread
+9,112,bread,2,0,45123,Organic 21 Grain Thin Sliced Bread
+9,112,bread,2,1,3896,Organic Honey Sweet Whole Wheat Bread
+9,112,bread,2,2,48628,Organic Whole Wheat Bread
+9,112,bread,2,3,13517,Whole Wheat Bread
+9,112,bread,2,4,45948,Gluten Free 7 Grain Bread
+9,112,bread,3,0,5077,100% Whole Wheat Bread
+9,112,bread,3,1,18362,Organic Bread with 21 Whole Grains
+9,112,bread,3,2,18027,Ezekiel 4:9 Bread Organic Sprouted Whole Grain
+9,112,bread,3,3,21267,Sourdough Bread
+9,112,bread,3,4,2855,Organic Good Seed Bread
+9,112,bread,4,0,23233,California Sourdough Bread
+9,112,bread,4,1,14467,Sweet Baguette
+9,112,bread,4,2,35383,Classic White Bread
+9,112,bread,4,3,39097,Gluten Free White Sandwich Bread
+9,112,bread,4,4,21497,White Sandwich Bread
+9,112,bread,5,0,6656,Organic California Style Sprouted Bread
+9,112,bread,5,1,26856,Organic Ezekiel 4:9 Sesame Bread
+9,112,bread,5,2,36606,Sprouted Multi-Grain Bread
+9,112,bread,5,3,30252,Organic Soft Wheat Bread
+9,112,bread,5,4,12756,Multigrain Oat Bread
+9,112,bread,6,0,20561,Brownberry 100% 12 Grain Bread
+9,112,bread,6,1,49621,Challah Bread
+9,112,bread,6,2,3318,Cinnamon Swirl Raisin Bread
+9,112,bread,6,3,5385,Country White Bread
+9,112,bread,6,4,9666,Country Morning White Bread
+9,112,bread,7,0,17419,Sprouted Whole Wheat Bread
+9,112,bread,7,1,44042,Premium Italian Bread
+9,112,bread,7,2,36397,Gluten Free Millet-Chia Bread
+9,112,bread,7,3,18439,Sliced Sourdough Bread
+9,112,bread,7,4,44533,"French Baguettes, Take & Bake, Twin Pack"
+10,31,refrigerated,0,0,20794,"Kombucha, Organic Raw, Citrus"
+10,31,refrigerated,0,1,29270,Beet Apple Carrot Lemon Ginger Organic Cold Pressed Juice Beverage
+10,31,refrigerated,0,2,17615,Calcium Pulp Free Orange Juice
+10,31,refrigerated,0,3,35121,Lemon Ginger Sparkling Probiotic Drink
+10,31,refrigerated,0,4,35842,Organic Lemon Cayenne Sparkling Probiotic Drink
+10,31,refrigerated,1,0,9421,Organic Raw Multigreen Kobmbucha
+10,31,refrigerated,1,1,8736,Synergy Organic & Raw Cosmic Cranberry
+10,31,refrigerated,1,2,36127,Freshly Squeezed Orange Juice
+10,31,refrigerated,1,3,43967,Raspberry Lemonade
+10,31,refrigerated,1,4,35336,Naked Green Machine Boosted Juice Smoothie
+10,31,refrigerated,2,0,45603,Trilogy Kombucha Drink
+10,31,refrigerated,2,1,34050,Orange Juice
+10,31,refrigerated,2,2,39108,Pulp Free Orange Juice
+10,31,refrigerated,2,3,48559,Synergy Organic Kombucha Gingerberry
+10,31,refrigerated,2,4,6631,No Pulp Calcium & Vitamin D Pure Orange Juice
+10,31,refrigerated,3,0,3957,100% Raw Coconut Water
+10,31,refrigerated,3,1,25146,Original Orange Juice
+10,31,refrigerated,3,2,30776,Organic Raw Kombucha Gingerade
+10,31,refrigerated,3,3,31683,Original No Pulp 100% Florida Orange Juice
+10,31,refrigerated,3,4,41290,Lemonade
+10,31,refrigerated,4,0,38200,Apple Juice
+10,31,refrigerated,4,1,13292,"Juice Beverage, Cold Pressed, Kale Apple Ginger Romaine Spinach Cucumber Celery Parsley Lemon"
+10,31,refrigerated,4,2,19894,Enlightened Organic Raw Kombucha
+10,31,refrigerated,4,3,6287,Organic & Raw Strawberry Serenity Kombucha
+10,31,refrigerated,4,4,8087,Florida Orange Juice With Calcium & Vitamin D
+10,31,refrigerated,5,0,32578,Organic Fresh Squeezed Orange Juice
+10,31,refrigerated,5,1,9018,All Natural Virgin Lemonade
+10,31,refrigerated,5,2,28836,Grapefruit Juice
+10,31,refrigerated,5,3,34270,"Cold-pressed, Deliciously Hydrating Watermelon Water"
+10,31,refrigerated,5,4,17487,Orange Juice 100% Juice
+10,31,refrigerated,6,0,16398,Guava Goddess Organic Kambucha
+10,31,refrigerated,6,1,37317,Wonderful 100% Pomegranate Juice
+10,31,refrigerated,6,2,36406,Essential Greens With Lime  Vegetable and Fruit Juice Blend
+10,31,refrigerated,6,3,19731,Organic Orange Juice With Calcium & Vitamin D
+10,31,refrigerated,6,4,35045,Original No Pulp Pure 100% Florida Orange Juice
+10,31,refrigerated,7,0,14996,Ruby Red Grapefruit
+10,31,refrigerated,7,1,27316,"Trop50 No Pulp Orange Juice w/ Calcium + Vitamin D, 50% Less Sugar & Calories"
+10,31,refrigerated,7,2,24363,Lemon Cayenne Agave Cold Pressed Juice Beverage
+10,31,refrigerated,7,3,39450,Oragnic Ginger Lemon Kombucha
+10,31,refrigerated,7,4,47280,California Orange Juice
+11,116,frozen produce,0,0,1516,Organic Acai Berry Smoothie Packs
+11,116,frozen produce,0,1,39024,Edamame In Pod
+11,116,frozen produce,0,2,45578,Dark Sweet Cherries
+11,116,frozen produce,0,3,35264,Cut Okra
+11,116,frozen produce,0,4,8412,Green Peas No Salt Added
+11,116,frozen produce,1,0,34466,Sweet Potatoes
+11,116,frozen produce,1,1,23236,Chopped Spinach
+11,116,frozen produce,1,2,31869,Organic Edamame
+11,116,frozen produce,1,3,26128,Organic Mango Chunks
+11,116,frozen produce,1,4,28123,Organic Cut Green Beans
+11,116,frozen produce,2,0,14678,Organic Frozen Peas
+11,116,frozen produce,2,1,1158,Mango Chunks
+11,116,frozen produce,2,2,28934,Frozen Broccoli Florets
+11,116,frozen produce,2,3,40545,Berry Medley
+11,116,frozen produce,2,4,18918,Organic Chopped Spinach
+11,116,frozen produce,3,0,9076,Blueberries
+11,116,frozen produce,3,1,20995,Organic Broccoli Florets
+11,116,frozen produce,3,2,24489,Organic Whole Strawberries
+11,116,frozen produce,3,3,17948,Frozen Organic Wild Blueberries
+11,116,frozen produce,3,4,46802,Pineapple Chunks
+11,116,frozen produce,4,0,32433,Green Peas
+11,116,frozen produce,4,1,34584,Organic Sliced Peaches
+11,116,frozen produce,4,2,2228,Organic Frozen Mango Chunks
+11,116,frozen produce,4,3,35887,Organic Mixed Vegetables
+11,116,frozen produce,4,4,28553,Whole Strawberries
+11,116,frozen produce,5,0,24082,Organic Dark Sweet Cherries
+11,116,frozen produce,5,1,47492,Organic Berry Blend
+11,116,frozen produce,5,2,9390,Frozen Peaches
+11,116,frozen produce,5,3,37250,Cut Green Beans
+11,116,frozen produce,5,4,436,Petite Brussels Sprouts
+11,116,frozen produce,6,0,37193,Shelled Edamame
+11,116,frozen produce,6,1,5603,Organic Green Peas
+11,116,frozen produce,6,2,46047,Organic Original Acai Berry + Guarana Smoothie Packs
+11,116,frozen produce,6,3,24764,Crushed Garlic
+11,116,frozen produce,6,4,40376,Steamfresh Sweet Peas
+11,116,frozen produce,7,0,8744,Mixed Vegetables
+11,116,frozen produce,7,1,22699,Steamfresh Premium Selects Broccoli Florets
+11,116,frozen produce,7,2,4302,Artichoke Hearts
+11,116,frozen produce,7,3,47780,Fresh Frozen Wild Blueberries
+11,116,frozen produce,7,4,6292,Organic Fire Roasted Corn
+12,37,ice cream ice,0,0,17334,Coffee Ice Cream
+12,37,ice cream ice,0,1,30994,Talenti Double Dark Chocolate Gelato
+12,37,ice cream ice,0,2,38563,Mint Chocolate Chip Ice Cream
+12,37,ice cream ice,0,3,22620,Chocolate Peanut Butter Ice Cream
+12,37,ice cream ice,0,4,14335,Phish Food® Ice Cream
+12,37,ice cream ice,1,0,21463,Vanilla Bean Light Ice Cream
+12,37,ice cream ice,1,1,45061,Natural Vanilla Ice Cream
+12,37,ice cream ice,1,2,4932,Vanilla Bean Ice Cream
+12,37,ice cream ice,1,3,1398,Ice Bag
+12,37,ice cream ice,1,4,28682,Chocolate Peanut Butter Cup Gelato
+12,37,ice cream ice,2,0,23554,Organic Vanilla Bean Ice Cream
+12,37,ice cream ice,2,1,38274,Ice Cream Sandwiches Vanilla
+12,37,ice cream ice,2,2,45681,Americone Dream® Ice Cream
+12,37,ice cream ice,2,3,40002,Strawberry Ice Cream
+12,37,ice cream ice,2,4,46175,Half Baked® Ice Cream
+12,37,ice cream ice,3,0,16965,Chocolate Ice Cream
+12,37,ice cream ice,3,1,32691,Vanilla Ice Cream
+12,37,ice cream ice,3,2,12276,Chocolate Chip Cookie Dough Ice Cream
+12,37,ice cream ice,3,3,20754,Mediterranean Mint Gelato
+12,37,ice cream ice,3,4,41319,Sea Salt Caramel Gelato
+12,37,ice cream ice,4,0,2361,Mint Chip
+12,37,ice cream ice,4,1,24231,Tahitian Vanilla Bean Gelato
+12,37,ice cream ice,4,2,13885,Caramel Cookie Crunch Gelato
+12,37,ice cream ice,4,3,48523,Birthday Cake Light Ice Cream
+12,37,ice cream ice,4,4,38374,Milk and Cookies Ice Cream
+12,37,ice cream ice,5,0,10199,Watermelon Agave Frozen Pops
+12,37,ice cream ice,5,1,47993,Cherry Garcia Ice Cream
+12,37,ice cream ice,5,2,8638,Vanilla Milk Chocolate Almond Ice Cream Bars
+12,37,ice cream ice,5,3,130,Vanilla Milk Chocolate Almond Ice Cream Bars Multi-Pack
+12,37,ice cream ice,5,4,40078,Strawberry Lemonade Frozen Pops
+12,37,ice cream ice,6,0,47652,Coconut Almond Minis Frozen Dessert Bars
+12,37,ice cream ice,6,1,30668,Half Baked Frozen Yogurt
+12,37,ice cream ice,6,2,45368,Roman Raspberry Sorbetto
+12,37,ice cream ice,6,3,45541,The Tonight Dough™ Ice Cream
+12,37,ice cream ice,6,4,38003,Sicilian Pistachio
+12,37,ice cream ice,7,0,46822,Ice
+12,37,ice cream ice,7,1,34458,Vanilla Ice Cream Sandwich
+12,37,ice cream ice,7,2,43749,Organic Ice Cream Vanilla Bean
+12,37,ice cream ice,7,3,19154,Coconut Fruit Bars
+12,37,ice cream ice,7,4,19711,Sorbet Pops Strawberry
+13,3,energy granola bars,0,0,39322,Caramel Almond and Sea Salt Nut Bar
+13,3,energy granola bars,0,1,24518,Gluten Free Lemonzest Nutrition bar
+13,3,energy granola bars,0,2,19821,Chocolate Chip
+13,3,energy granola bars,0,3,48335,Chocolate Brownie Energy Bar
+13,3,energy granola bars,0,4,23219,Nutz Over Chocolate
+13,3,energy granola bars,1,0,22227,Coconut Cream Pie
+13,3,energy granola bars,1,1,23291,Coconut Chia Bar
+13,3,energy granola bars,1,2,20876,Crunchy Peanut Butter Energy Bar
+13,3,energy granola bars,1,3,45645,Dark Chocolate Nuts & Sea Salt Bars
+13,3,energy granola bars,1,4,34137,Chocolate Sea Salt
+13,3,energy granola bars,2,0,17224,Oats & Honey Gluten Free Granola
+13,3,energy granola bars,2,1,33716,Apple Pie Fruit & Nut Food Bar
+13,3,energy granola bars,2,2,38656,Gluten Free Peanut Butter Dark Chocolate Chewy With a Crunch Granola Bars
+13,3,energy granola bars,2,3,14778,Organic Chocolate Chip Chewy Granola Bars
+13,3,energy granola bars,2,4,5250,Blueberry Muffin Bar
+13,3,energy granola bars,3,0,44560,Kids Organic Chocolate Chip ZBars
+13,3,energy granola bars,3,1,5322,Gluten Free Dark Chocolate Chunk Chewy with a Crunch Granola Bars
+13,3,energy granola bars,3,2,41400,Crunchy Oats 'n Honey Granola Bars
+13,3,energy granola bars,3,3,16254,ZBar Organic Chocolate Brownie Energy Snack
+13,3,energy granola bars,3,4,23579,Peanut Butter Chocolate Chip Fruit & Nut Food Bar
+13,3,energy granola bars,4,0,26629,Cherry Pie Fruit & Nut Bar
+13,3,energy granola bars,4,1,25197,Iced Oatmeal Cookie Kid Z Bar
+13,3,energy granola bars,4,2,10753,Peanut Butter Bar
+13,3,energy granola bars,4,3,35633,Chocolate Peanut Butter
+13,3,energy granola bars,4,4,47717,Peanut Butter Cookie
+13,3,energy granola bars,5,0,43263,Crunchy Oats N' Honey Granola Bars
+13,3,energy granola bars,5,1,47990,White Chocolate Macadamia Nut Energy Bar
+13,3,energy granola bars,5,2,46562,Sweet & Salty Nut Granola Bars Peanut
+13,3,energy granola bars,5,3,6069,Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars
+13,3,energy granola bars,5,4,11688,Lemon Fruit & Nut Food Bar
+13,3,energy granola bars,6,0,2067,Plus Cranberry Almond + Antioxidants with Macadamia Nuts Bar
+13,3,energy granola bars,6,1,25346,Peanut Butter Dark Chocolate + Protein Bar
+13,3,energy granola bars,6,2,11707,Peanut Butter Chocolate Chip Macrobar
+13,3,energy granola bars,6,3,38730,Brownie Crunch High Protein Bar
+13,3,energy granola bars,6,4,24035,Coconut  Chocolate Bar
+13,3,energy granola bars,7,0,44948,Organic Z  Mixed Berry Fruit Rope
+13,3,energy granola bars,7,1,43182,Almond Butter
+13,3,energy granola bars,7,2,33929,Acai Berry Chia Bar
+13,3,energy granola bars,7,3,1364,Organic Vanilla Chip Chewy Granola
+13,3,energy granola bars,7,4,3661,S'mores Luna Bar
+14,78,crackers,0,0,31564,Crackers
+14,78,crackers,0,1,44245,Honey Maid Graham Crackers
+14,78,crackers,0,2,44201,Original Gluten Free Crackers
+14,78,crackers,0,3,45537,Classic Round Crackers
+14,78,crackers,0,4,22993,Super Seed Crispy Crackers
+14,78,crackers,1,0,12572,6 OZ LA PANZANELLA CROSTINI ORIGINAL CRACKERS
+14,78,crackers,1,1,33894,Goldfish Cheddar Baked Snack Crackers Multi Packs
+14,78,crackers,1,2,6128,Original Fresh Stack Crackers
+14,78,crackers,1,3,7736,Premium Original Saltine Crackers
+14,78,crackers,1,4,27454,Organic Mini Sandwich Crackers Cheddar Cheese
+14,78,crackers,2,0,40268,Organic Wheat-Free & Gluten-Free Original Crackers
+14,78,crackers,2,1,17616,Goldfish Cheddar Baked Snack Crackers
+14,78,crackers,2,2,21009,"Crispy Wheat, Crackers"
+14,78,crackers,2,3,8479,Original Black Box Tablewater Cracker
+14,78,crackers,2,4,32455,Whole Grain Cheddar Baked Snack Crackers
+14,78,crackers,3,0,34262,Hint Of Sea Salt Almond Nut Thins
+14,78,crackers,3,1,39561,Crackers Cheddar Bunnies Snack Packs
+14,78,crackers,3,2,22474,Cheddar Bunnies Snack Crackers
+14,78,crackers,3,3,2091,Almond Nut & Rice Cracker Snacks
+14,78,crackers,3,4,24810,Organic Lightly Salted Brown Rice Cakes
+14,78,crackers,4,0,21614,Crackers Harvest Whole Wheat
+14,78,crackers,4,1,18382,Saltine Crackers
+14,78,crackers,4,2,48595,Organic Wheat Square Crackers
+14,78,crackers,4,3,11352,Organic Mini Sandwich Crackers Peanut Butter
+14,78,crackers,4,4,28597,Organic Stoneground Wheat Crackers
+14,78,crackers,5,0,32052,Organic Brown Rice Cake Salt-Free
+14,78,crackers,5,1,38622,Cheddar Snack Crackers Cheddar Bunnies
+14,78,crackers,5,2,12817,Original Baked Whole Grain Wheat Crackers
+14,78,crackers,5,3,21572,Cheez-It Cheddar Cracker
+14,78,crackers,5,4,39041,Original Wheat Thins
+14,78,crackers,6,0,47521,Crispy Cheddar Crackers
+14,78,crackers,6,1,33527,Organic Classic Rich Crackers
+14,78,crackers,6,2,46107,Whole Wheat Crackers
+14,78,crackers,6,3,7088,Organic Cheddar Bunnies
+14,78,crackers,6,4,21526,Organic Golden Round Crackers
+14,78,crackers,7,0,4778,Wheat Thins Reduced Fat Crackers
+14,78,crackers,7,1,7361,Herb Crackers
+14,78,crackers,7,2,13914,Cheez-It Baked Snack Crackers
+14,78,crackers,7,3,35132,Cheese Square Crackers
+14,78,crackers,7,4,44487,Lightly Salted Rice Cakes
+15,86,eggs,0,0,6774,Brown Fertile Large Grade AA Eggs
+15,86,eggs,0,1,2210,Large Brown Grade AA Eggs
+15,86,eggs,0,2,6341,Brown Eggs
+15,86,eggs,0,3,36186,Large Grade AA Organic Eggs
+15,86,eggs,0,4,27662,Large Grade AA Cage Free Eggs
+15,86,eggs,1,0,34668,Organic Large Grade AA Omega-3 Eggs
+15,86,eggs,1,1,14218,Grade A Large Eggs Cage Free Omega 3
+15,86,eggs,1,2,34234,Grade AA Large White Eggs
+15,86,eggs,1,3,17902,Liquid Egg Whites
+15,86,eggs,1,4,23341,Large Grade AA Eggs
+15,86,eggs,2,0,46654,Organic Grade A Large Brown Eggs
+15,86,eggs,2,1,16083,Organic Large Brown Eggs
+15,86,eggs,2,2,36550,Organic Extra Large Grade AA Brown Eggs
+15,86,eggs,2,3,35921,Organic Large Grade A Brown Eggs
+15,86,eggs,2,4,40332,"Cage Free Brown Eggs-Large, Grade A"
+15,86,eggs,3,0,18465,Organic Grade A Free Range Large Brown Eggs
+15,86,eggs,3,1,11520,Large Alfresco Eggs
+15,86,eggs,3,2,30233,Organic Large Brown Grade AA Cage Free Eggs
+15,86,eggs,3,3,32655,Organic Large Grade AA Brown Eggs
+15,86,eggs,3,4,33120,Organic Egg Whites
+15,86,eggs,4,0,5782,Grade A Large White Eggs
+15,86,eggs,4,1,26384,Large Brown Eggs
+15,86,eggs,4,2,44799,Fresh CA Grown Eggs
+15,86,eggs,4,3,11712,Cage Free Large White Eggs
+15,86,eggs,4,4,23543,Organic Extra Large Brown Eggs
+15,86,eggs,5,0,14999,Grade A Large Brown Eggs
+15,86,eggs,5,1,27307,Cage Free Grade A Large Brown Eggs
+15,86,eggs,5,2,28851,Cage Free  100% Liquid Egg Whites
+15,86,eggs,5,3,1890,Organic Large Grade A Eggs
+15,86,eggs,5,4,16168,Large Organic Omega3 Brown Eggs
+15,86,eggs,6,0,12935,Organic Pasture Raised Brown Eggs
+15,86,eggs,6,1,14874,Organic Eggs Large
+15,86,eggs,6,2,18534,Grade A Extra Large Eggs
+15,86,eggs,6,3,6383,All Whites 100% Egg Whites
+15,86,eggs,6,4,5115,Organic Medium Brown Eggs
+15,86,eggs,7,0,16291,Organic Extra Large Brown Omega 3 Eggs
+15,86,eggs,7,1,30385,Organic Free Range Grade A Large Brown Eggs
+15,86,eggs,7,2,43209,Large Eggs
+15,86,eggs,7,3,41148,Hard Cooked Eggs
+15,86,eggs,7,4,5535,Large Brown Free Range Eggs Grade A
+16,96,lunch meat,0,0,23879,Applewood Smoked Turkey Breast
+16,96,lunch meat,0,1,29871,Organic Roast Beef
+16,96,lunch meat,0,2,26040,"Deli Fresh Honey Ham, 97% Fat Free, Gluten Free"
+16,96,lunch meat,0,3,16995,Sliced Soppressata Salame
+16,96,lunch meat,0,4,9507,Honey Turkey Breast
+16,96,lunch meat,1,0,10106,Honey & Maple Turkey Breast
+16,96,lunch meat,1,1,19895,Sliced Prosciutto
+16,96,lunch meat,1,2,5438,Prosciutto
+16,96,lunch meat,1,3,43183,Deli Fresh Shaved Smoked Turkey Breast
+16,96,lunch meat,1,4,34497,"Prosciutto, Americano"
+16,96,lunch meat,2,0,28745,Oven Roasted Turkey
+16,96,lunch meat,2,1,36735,Organic Roasted Sliced Chicken Breast
+16,96,lunch meat,2,2,23029,Organic Uncured Sliced Black Forest Ham
+16,96,lunch meat,2,3,5456,Green Tea With Ginseng and Honey
+16,96,lunch meat,2,4,20574,Roasted Turkey
+16,96,lunch meat,3,0,27344,Uncured Genoa Salami
+16,96,lunch meat,3,1,22963,Organic Roasted Turkey Breast
+16,96,lunch meat,3,2,40310,Oven Roasted Turkey Breast
+16,96,lunch meat,3,3,42342,Roasted Turkey Breast
+16,96,lunch meat,3,4,19019,Uncured Slow Cooked Ham
+16,96,lunch meat,4,0,49131,Smoked Turkey Breast Slices
+16,96,lunch meat,4,1,28928,Uncured Black Forest Ham
+16,96,lunch meat,4,2,37119,Uncured Pepperoni
+16,96,lunch meat,4,3,23765,Organic Smoked Turkey Breast
+16,96,lunch meat,4,4,10369,Organic Genoa Salami
+16,96,lunch meat,5,0,35652,Prosciutto Di Parma
+16,96,lunch meat,5,1,7715,Rosemary Ham
+16,96,lunch meat,5,2,14702,Maple Honey Ham
+16,96,lunch meat,5,3,3856,Deli Fresh Smoked Turkey Breast
+16,96,lunch meat,5,4,4595,Italian Dry Salame
+16,96,lunch meat,6,0,287,Turkey
+16,96,lunch meat,6,1,32369,Uncured Diced Pancetta
+16,96,lunch meat,6,2,48086,Black Forest Ham
+16,96,lunch meat,6,3,36144,Smoked Turkey Breast
+16,96,lunch meat,6,4,1103,Hickory Smoked Turkey Breast
+16,96,lunch meat,7,0,28634,Hard Salami
+16,96,lunch meat,7,1,35530,Natural Mini Pork Pepperoni
+16,96,lunch meat,7,2,47591,Prosciutto di San Daniele
+16,96,lunch meat,7,3,21410,"Deli Fresh Honey Smoked Turkey Breast, 98% Fat Free, Gluten Free"
+16,96,lunch meat,7,4,33095,"Salame, Italian Dry"
+17,38,frozen meals,0,0,31612,Black Bean Vegetables Burrito
+17,38,frozen meals,0,1,35946,Made With Organic Beans & Rice Burrito Non-Dairy
+17,38,frozen meals,0,2,48099,Truffle Parmesan Macaroni & Cheese Bowl
+17,38,frozen meals,0,3,36651,Pizza Poppers Uncured Pepperoni
+17,38,frozen meals,0,4,6975,World Cuisine Certified Halal Chicken Tikka Masala With Basmati Rice
+17,38,frozen meals,1,0,33957,Mexican Casserole Bowl
+17,38,frozen meals,1,1,49273,Light and Lean Quinoa Black Beans with Butternut Squash and Chard
+17,38,frozen meals,1,2,5699,Gluten Free Mushroom Risotto Bowl
+17,38,frozen meals,1,3,14126,Gluten and Dairy Free Rice Macaroni and Cheeze
+17,38,frozen meals,1,4,21150,Fire Grilled Steak Bowl
+17,38,frozen meals,2,0,39121,Organic Jasmine Rice
+17,38,frozen meals,2,1,26914,Bean & Cheese Burrito
+17,38,frozen meals,2,2,13966,Chicken Pot Pie
+17,38,frozen meals,2,3,45613,Pad Thai
+17,38,frozen meals,2,4,43908,Butternut Squash Ravioli
+17,38,frozen meals,3,0,42450,Macaroni & Cheese
+17,38,frozen meals,3,1,49075,Organic Brown Rice
+17,38,frozen meals,3,2,34217,Pesto Tortellini  Bowls
+17,38,frozen meals,3,3,47792,Organic Beans & Rice Cheddar Cheese Burrito
+17,38,frozen meals,3,4,9124,Broccoli & Cheddar Bake Meal Bowl
+17,38,frozen meals,4,0,49416,Organic Gluten Free Non-Dairy Beans & Rice Burrito
+17,38,frozen meals,4,1,22559,Kitchen Cheese Enchilada
+17,38,frozen meals,4,2,24631,Light & Lean Spinach Lasagna
+17,38,frozen meals,4,3,30135,Cheddar Cheese Burrito
+17,38,frozen meals,4,4,6750,Cheese Ravioli with Sauce Bowls
+17,38,frozen meals,5,0,8929,Organic Chicken Pot Pie
+17,38,frozen meals,5,1,31883,Vegetable Lasagna
+17,38,frozen meals,5,2,47119,Rice Mac & Cheese
+17,38,frozen meals,5,3,3717,Cheese Enchilada Meal
+17,38,frozen meals,5,4,9290,Country Cheddar Bowl
+17,38,frozen meals,6,0,13807,Light and Lean Macaroni and Cheese
+17,38,frozen meals,6,1,10343,Teriyaki Chicken Bowl
+17,38,frozen meals,6,2,12324,Indian Paneer Tikka
+17,38,frozen meals,6,3,11865,Light & Lean Spaghetti Italiano with Meatless Meatballs
+17,38,frozen meals,6,4,6300,Light & Lean Pasta & Veggie Bowl
+17,38,frozen meals,7,0,27737,Brown Rice Black-Eyed Peas and Veggies Bowl
+17,38,frozen meals,7,1,26706,Chicken Pad Thai With Rice Noodles
+17,38,frozen meals,7,2,15925,Macaroni and Cheese
+17,38,frozen meals,7,3,28862,Chicken Fried Rice
+17,38,frozen meals,7,4,15820,Cafe Cuisine Sesame Chicken
+18,92,baby food formula,0,0,44787,Stage 1 - Just Prunes
+18,92,baby food formula,0,1,2664,First Prunes
+18,92,baby food formula,0,2,45767,Sunny Days Strawberry Snack Bars
+18,92,baby food formula,0,3,39468,"Apples, Kale & Avocados Organic Baby Food"
+18,92,baby food formula,0,4,19046,Banana & Mango Organic Yogurt & Fruit Snacks 
+18,92,baby food formula,1,0,38985,Organic Stage 4 Spinach Mango & Pear Baby Food
+18,92,baby food formula,1,1,38984,Kale & Spinach Superfood Puffs
+18,92,baby food formula,1,2,23025,Organic Stage 4 Green Bean Pear & Pea Baby Food
+18,92,baby food formula,1,3,22969,"Sweeet Potato, Apple, Carrot & Cinnamon Organic Superfoods"
+18,92,baby food formula,1,4,24413,Organic Strawberry Banana Fruit Yogurt Smoothie
+18,92,baby food formula,2,0,5491,Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food
+18,92,baby food formula,2,1,21162,Organic Mixed Berry Yogurt & Fruit Snack
+18,92,baby food formula,2,2,49044,"Organic Pears, Peas and Broccoli Puree Stage 1"
+18,92,baby food formula,2,3,5114,"Peach,  Apricot & Banana Stage 2 Baby Food"
+18,92,baby food formula,2,4,1202,Organic Whole Grain Oatmeal Cereal Baby Food
+18,92,baby food formula,3,0,43875,Baby Food Stage 2 Blueberry Pear & Purple Carrot
+18,92,baby food formula,3,1,34134,Spinach Peas & Pear Stage 2 Baby Food
+18,92,baby food formula,3,2,3020,Broccoli & Apple Stage 2 Baby Food
+18,92,baby food formula,3,3,2611,Gluten Free SpongeBob Spinach Littles
+18,92,baby food formula,3,4,49215,Kids Sensible Foods Broccoli Littles
+18,92,baby food formula,4,0,14211,Baby Food Stage 2 Pumpkin Banana
+18,92,baby food formula,4,1,18176,Organic Strawberry Yogurt & Fruit Snack
+18,92,baby food formula,4,2,14491,"Happy Baby Spinach, Mango, and Pear Baby Food"
+18,92,baby food formula,4,3,47888,Apple and Carrot Stage 2 Baby Food
+18,92,baby food formula,4,4,38192,Pear & Mango Stage 2 Baby Food
+18,92,baby food formula,5,0,31504,Organic Stage 2 Peaches & Bananas Baby Food
+18,92,baby food formula,5,1,4812,Stage 1 Apples & Strawberries Organic Pureed Baby Food
+18,92,baby food formula,5,2,30192,Organic 4 Months Butternut Squash Carrots Apples + Prunes Baby Food
+18,92,baby food formula,5,3,39427,Apples + Strawberries Organic Nibbly Fingers
+18,92,baby food formula,5,4,25371,Organic Banana Blueberry Baby Food Puree
+18,92,baby food formula,6,0,34249,Strawberry Puffs
+18,92,baby food formula,6,1,24834,Organic Sweet Potato Puffs
+18,92,baby food formula,6,2,12020,"Mighty 4 Sweet Potato, Blueberry, Millet & Greek Yogurt Tots Snack"
+18,92,baby food formula,6,3,32018,Organic Fiber & Protein Pear Blueberry & Spinach Baby Food
+18,92,baby food formula,6,4,22210,Organic Stage 2 Broccoli Pears & Peas Baby Food
+18,92,baby food formula,7,0,34745,Organic Stage 3 Pear Carrot Apricot Baby Food
+18,92,baby food formula,7,1,28378,Stage 2 Sweet Potato Corn & Apple Baby Food
+18,92,baby food formula,7,2,39578,Organic Go Go Apple Peach Applesauce
+18,92,baby food formula,7,3,8574,Squash & Sweet Peas Stage 2
+18,92,baby food formula,7,4,17622,Wholesome Breakfast Blueberry Banana
+19,121,cereal,0,0,44475,Honey Bunches of Oats Honey Roasted with Almonds Cereal
+19,121,cereal,0,1,19376,Gluten Free Crunchy Vanilla Cereal
+19,121,cereal,0,2,32579,Organic Promise Autumn Wheat Cereal
+19,121,cereal,0,3,28931,Honey Bunches of Oats Honey Roasted Cereal
+19,121,cereal,0,4,28132,Heart to Heart Organic Oat Flakes & Blueberry Clusters Cereal
+19,121,cereal,1,0,4792,Panda Puffs Peanut Butter Cereal
+19,121,cereal,1,1,21513,Heart to Heart Honey Toasted Oat Cereal
+19,121,cereal,1,2,30183,Quaker Life Cinnamon Cereal
+19,121,cereal,1,3,24253,Go Lean Cereal
+19,121,cereal,1,4,13042,with Crispy Almonds Cereal
+19,121,cereal,2,0,31759,Cherrios Honey Nut
+19,121,cereal,2,1,34,Peanut Butter Cereal
+19,121,cereal,2,2,43409,Frosted Mini-Wheats Original Cereal
+19,121,cereal,2,3,4137,Whole Grain Oat Cereal
+19,121,cereal,2,4,31640,Original Puffins Cereal
+19,121,cereal,3,0,41844,Honey Nut Cheerios
+19,121,cereal,3,1,6187,Raisin Bran Cereal
+19,121,cereal,3,2,20955,Cereal
+19,121,cereal,3,3,365,Cheerios Cereal
+19,121,cereal,3,4,31433,Organic Cinnamon Crunch Cereal
+19,121,cereal,4,0,26177,Organic Honey Nut O's Cereal
+19,121,cereal,4,1,39216,Original Multigrain Spoonfuls Cereal
+19,121,cereal,4,2,27663,GOLEAN Crunch! Cereal
+19,121,cereal,4,3,20512,Original Cereal
+19,121,cereal,4,4,39411,Organic Cinnamon Harvest Cereal
+19,121,cereal,5,0,39560,Go Lean Crunch! Honey Almond Flax Cereal
+19,121,cereal,5,1,13032,Cinnamon Toast Crunch
+19,121,cereal,5,2,41351,Family Size Naturally Flavored Whole Grain Oats Cereal
+19,121,cereal,5,3,30340,Oatmeal Squares Brown Sugar
+19,121,cereal,5,4,25767,Organic Multi Grain Squares Cereal
+19,121,cereal,6,0,47366,Raisin Bran Crunch Cereal
+19,121,cereal,6,1,691,Organic Promise Strawberry Fields Cereal
+19,121,cereal,6,2,21506,Organic Raisin Bran Cereal
+19,121,cereal,6,3,29363,Cinnamon Cereal
+19,121,cereal,6,4,13147,GOLEAN Crisp! Toasted Berry Crumble Cereal
+19,121,cereal,7,0,30967,Organic Frosted Flakes Cereal
+19,121,cereal,7,1,36994,Organic Graham Crunch Cereal
+19,121,cereal,7,2,25691,Original Life Cereal
+19,121,cereal,7,3,25936,EnviroKidz Gluten Free & Wheat Free Gorilla Munch Corn Puff Cereal
+19,121,cereal,7,4,2519,Rice Krispies Cereal
+20,16,fresh herbs,0,0,28171,Organic Cilantro Bunch
+20,16,fresh herbs,0,1,4136,Living Herbs Potted Living Basil
+20,16,fresh herbs,0,2,1440,Baby Dill
+20,16,fresh herbs,0,3,24890,Fresh Whole Garlic
+20,16,fresh herbs,0,4,4620,Ginger Root
+20,16,fresh herbs,1,0,13780,Thyme
+20,16,fresh herbs,1,1,22247,Organic Chives
+20,16,fresh herbs,1,2,46294,Organic Parsley
+20,16,fresh herbs,1,3,21403,Lemon Grass
+20,16,fresh herbs,1,4,5380,Organic Mint Bunch
+20,16,fresh herbs,2,0,39812,Organic Thyme
+20,16,fresh herbs,2,1,39984,Organic Dill
+20,16,fresh herbs,2,2,42625,"Flat Parsley, Bunch"
+20,16,fresh herbs,2,3,1025,Organic Fresh Basil
+20,16,fresh herbs,2,4,4086,Mint
+20,16,fresh herbs,3,0,31717,Organic Cilantro
+20,16,fresh herbs,3,1,34126,Organic Italian Parsley Bunch
+20,16,fresh herbs,3,2,28842,Bunched Cilantro
+20,16,fresh herbs,3,3,43789,Organic Basil
+20,16,fresh herbs,3,4,13984,Organic Mint
+20,16,fresh herbs,4,0,15261,Organic Rosemary
+20,16,fresh herbs,4,1,1529,"Parsley, Italian (Flat), New England Grown"
+20,16,fresh herbs,4,2,8955,Basil
+20,16,fresh herbs,4,3,32537,Parsley
+20,16,fresh herbs,4,4,12419,Organic Sage
+20,16,fresh herbs,5,0,39693,Fresh Dill
+20,16,fresh herbs,5,1,28990,Curly Parsley Bunch
+20,16,fresh herbs,5,2,38266,Fresh Basil
+20,16,fresh herbs,5,3,5912,Organic Tarragon
+20,16,fresh herbs,5,4,20034,Potted Basil
+20,16,fresh herbs,6,0,20920,Sage
+20,16,fresh herbs,6,1,9127,Organic Poultry Blend
+20,16,fresh herbs,6,2,9243,Herb Cilantro Clamshell
+20,16,fresh herbs,6,3,35551,Italian Parsley
+20,16,fresh herbs,6,4,9853,Dill
+20,16,fresh herbs,7,0,10668,Organic Mixed Herbs
+20,16,fresh herbs,7,1,21833,Herbs Chives
+20,16,fresh herbs,7,2,38644,Organic Thai Basil
+20,16,fresh herbs,7,3,15162,Potted Thyme
+20,16,fresh herbs,7,4,16610,Organic Italian Parsley
+21,77,soft drinks,0,0,8615,Sparkling Pomegranate
+21,77,soft drinks,0,1,3389,Diet Dr.Pepper Soda Pack
+21,77,soft drinks,0,2,49198,Zero Soda
+21,77,soft drinks,0,3,18389,Blood Orange Italian Soda
+21,77,soft drinks,0,4,48142,Diet
+21,77,soft drinks,1,0,34024,Classic Soda
+21,77,soft drinks,1,1,19125,Extra Ginger Brew Jamaican Style Ginger Beer
+21,77,soft drinks,1,2,42731,Original Citrus Sparkling Flavored Soda
+21,77,soft drinks,1,3,39921,Lemon Lime Soda
+21,77,soft drinks,1,4,39409,"Ginger Root Beer, Naturally Flavored Zero Calorie Soda, Caffeine Free"
+21,77,soft drinks,2,0,46149,Zero Calorie Cola
+21,77,soft drinks,2,1,40910,Root Beer
+21,77,soft drinks,2,2,24759,Club Soda
+21,77,soft drinks,2,3,4138,Arancita Rossa
+21,77,soft drinks,2,4,43631,Diet Coke
+21,77,soft drinks,3,0,196,Soda
+21,77,soft drinks,3,1,10957,Fridge Pack Cola
+21,77,soft drinks,3,2,12916,Ginger Ale
+21,77,soft drinks,3,3,47141,Cola
+21,77,soft drinks,3,4,16696,Coke Classic
+21,77,soft drinks,4,0,10032,Cola Soft Drink
+21,77,soft drinks,4,1,16290,Sparkling Clementine Juice
+21,77,soft drinks,4,2,44375,Canned Aranciata Orange
+21,77,soft drinks,4,3,18564,Diet Ginger Ale All Natural Soda
+21,77,soft drinks,4,4,47877,Coke Zero
+21,77,soft drinks,5,0,17191,Tangerine
+21,77,soft drinks,5,1,18418,Ginger Ale Soda
+21,77,soft drinks,5,2,8475,Diet 12 Oz Ginger Ale
+21,77,soft drinks,5,3,42500,Orange & Lemon Flavor Variety Pack Sparkling Fruit Beverage
+21,77,soft drinks,5,4,18610,Cola Soda
+21,77,soft drinks,6,0,14766,Sparkling Grapefruit
+21,77,soft drinks,6,1,6846,Diet Pepsi Pack
+21,77,soft drinks,6,2,277,Diet Root Beer
+21,77,soft drinks,6,3,31808,Lemon-Lime 12 Pack Soda
+21,77,soft drinks,6,4,9175,Diet Coke Caffeine Free Soda
+21,77,soft drinks,7,0,12140,Diet Soda
+21,77,soft drinks,7,1,47931,Diet Cola
+21,77,soft drinks,7,2,32141,Diet Coke Soda
+21,77,soft drinks,7,3,21131,Lemon-Lime Fridge Pack Soda
+21,77,soft drinks,7,4,29503,Coke
+22,67,fresh dips tapenades,0,0,12075,Spicy Hummus
+22,67,fresh dips tapenades,0,1,15923,Supremely Spicy Hummus
+22,67,fresh dips tapenades,0,2,21769,Chunky Guacamole
+22,67,fresh dips tapenades,0,3,27596,Classic Original Hommus
+22,67,fresh dips tapenades,0,4,31242,Pico De Gallo Chunky Salsa
+22,67,fresh dips tapenades,1,0,34128,Tzatziki
+22,67,fresh dips tapenades,1,1,32139,Hommus Classic Original
+22,67,fresh dips tapenades,1,2,20015,Grandma's Hummus
+22,67,fresh dips tapenades,1,3,45788,Garlic Lovers Hommus
+22,67,fresh dips tapenades,1,4,7388,"Salsa, Roja, Hot"
+22,67,fresh dips tapenades,2,0,33129,Classic Hummus
+22,67,fresh dips tapenades,2,1,21573,Roasted Pine Nut Hummus
+22,67,fresh dips tapenades,2,2,7485,Garlic Hummus
+22,67,fresh dips tapenades,2,3,8138,Traditional Hummus
+22,67,fresh dips tapenades,2,4,17429,Jalapeno Hummus
+22,67,fresh dips tapenades,3,0,30489,Original Hummus
+22,67,fresh dips tapenades,3,1,40396,Guacamole
+22,67,fresh dips tapenades,3,2,21019,Roasted Red Pepper Hummus
+22,67,fresh dips tapenades,3,3,13646,Lemon Hummus
+22,67,fresh dips tapenades,3,4,2825,Organic Original Hommus
+22,67,fresh dips tapenades,4,0,33846,Roasted Garlic Hummus
+22,67,fresh dips tapenades,4,1,48057,"Hummus, Hope, Original Recipe"
+22,67,fresh dips tapenades,4,2,5031,Medium Salsa Roja
+22,67,fresh dips tapenades,4,3,49605,Classic Hummus Family Size
+22,67,fresh dips tapenades,4,4,39055,Mild Salsa Roja
+22,67,fresh dips tapenades,5,0,19446,Thick & Chunky Salsa
+22,67,fresh dips tapenades,5,1,5973,Spicy Avocado Hummus
+22,67,fresh dips tapenades,5,2,27356,French Onion Dip
+22,67,fresh dips tapenades,5,3,25623,Real Guacamole
+22,67,fresh dips tapenades,5,4,18615,Organic Guacamole
+22,67,fresh dips tapenades,6,0,9422,Hummus
+22,67,fresh dips tapenades,6,1,46106,Organic Sriracha Hummus
+22,67,fresh dips tapenades,6,2,41433,Fresh Roasted Tomate & Chile Asado Medium Salsa
+22,67,fresh dips tapenades,6,3,28071,Olive Hummus
+22,67,fresh dips tapenades,6,4,37658,Snack Pack Mini Classic
+22,67,fresh dips tapenades,7,0,10163,Roasted Red Pepper Hommus
+22,67,fresh dips tapenades,7,1,44097,Organic Original Hummus
+22,67,fresh dips tapenades,7,2,35968,Organic Traditional Hummus
+22,67,fresh dips tapenades,7,3,37625,Guacamole Authentic
+22,67,fresh dips tapenades,7,4,16840,Mild Guacamole
+23,69,soup broth bouillon,0,0,33184,Condensed Cream of Mushroom Soup
+23,69,soup broth bouillon,0,1,7622,Organic Chicken & Wild Rice Soup
+23,69,soup broth bouillon,0,2,49267,Vegetable Broth Low Sodium
+23,69,soup broth bouillon,0,3,18567,Low Fat No Chicken Noodle Soup
+23,69,soup broth bouillon,0,4,32857,Organic Chunky Tomato Bisque Soup
+23,69,soup broth bouillon,1,0,20670,Organic Lentil Vegetable Soup
+23,69,soup broth bouillon,1,1,30463,Organic Simply Stock Unsalted Chicken Stock
+23,69,soup broth bouillon,1,2,6141,Low Sodium Beef Broth
+23,69,soup broth bouillon,1,3,44843,Traditional Chicken Noodle Soup
+23,69,soup broth bouillon,1,4,49401,"Chicken Base, Organic"
+23,69,soup broth bouillon,2,0,5769,Organic Chicken Stock
+23,69,soup broth bouillon,2,1,14129,Organic Chicken Bone Broth
+23,69,soup broth bouillon,2,2,18880,Organic Free Range Low Sodium Chicken Broth
+23,69,soup broth bouillon,2,3,21417,Organic Creamy Tomato Soup
+23,69,soup broth bouillon,2,4,16823,Organic Beef Broth
+23,69,soup broth bouillon,3,0,45535,Organic Low Sodium Chicken Broth
+23,69,soup broth bouillon,3,1,46720,Organic Free Range Chicken Broth
+23,69,soup broth bouillon,3,2,9092,Organic Vegetable Broth
+23,69,soup broth bouillon,3,3,1999,Organic Chicken Broth
+23,69,soup broth bouillon,3,4,18479,Organic Low Sodium Vegetable Broth
+23,69,soup broth bouillon,4,0,46900,Organic Chicken Noodle Soup
+23,69,soup broth bouillon,4,1,11136,Organic Low Sodium Chicken Cooking Stock
+23,69,soup broth bouillon,4,2,20378,Chicken Broth
+23,69,soup broth bouillon,4,3,14536,Natural Goodness 33% Less Sodium Chicken Broth
+23,69,soup broth bouillon,4,4,23094,Organic Lentil Soup
+23,69,soup broth bouillon,5,0,31555,Organic Light in Sodium Lentil Vegetable Soup
+23,69,soup broth bouillon,5,1,3682,Organic Roasted Red Pepper & Tomato Soup
+23,69,soup broth bouillon,5,2,36315,Low Fat Split Pea Soup
+23,69,soup broth bouillon,5,3,38012,Organic Cream of Mushroom Condensed Soup
+23,69,soup broth bouillon,5,4,34124,Organic Low Fat Vegetable Barley Soup
+23,69,soup broth bouillon,6,0,19904,Organic Creamy Butternut Squash Soup
+23,69,soup broth bouillon,6,1,33746,Simply Stock Organic Vegetable Unsalted Stock
+23,69,soup broth bouillon,6,2,38618,Organic Chunky Vegetable Soup
+23,69,soup broth bouillon,6,3,14355,Organic Beef Bone Broth
+23,69,soup broth bouillon,6,4,19076,Rich & Hearty Chicken & Homestyle Noodles Soup
+23,69,soup broth bouillon,7,0,38797,Chicken Stock
+23,69,soup broth bouillon,7,1,21011,Condensed Cream of Chicken Soup
+23,69,soup broth bouillon,7,2,20468,Recipe Secrets Onion Soup & Dip Mix
+23,69,soup broth bouillon,7,3,35871,Organic Low Sodium Chunky Tomato Bisque Soup
+23,69,soup broth bouillon,7,4,1757,Organic Cashew Carrot Ginger Soup
+24,98,juice nectars,0,0,35504,Real Coconut Water
+24,98,juice nectars,0,1,33671,100% Pineapple Juice
+24,98,juice nectars,0,2,1896,Organic Sensible Sipper Apple Juice
+24,98,juice nectars,0,3,5883,Organic Strawberry Lemonade
+24,98,juice nectars,0,4,14086,Sparkling Apple Juice
+24,98,juice nectars,1,0,37215,100% Cranberry Juice
+24,98,juice nectars,1,1,44116,Goodness Grapeness Organic Juice Drink
+24,98,juice nectars,1,2,23178,Pure Lemon Juice
+24,98,juice nectars,1,3,34335,Ruby Red Grapefruit Juice
+24,98,juice nectars,1,4,18339,100% Lemon Juice
+24,98,juice nectars,2,0,26317,Organic Lemonade
+24,98,juice nectars,2,1,14715,Coconut Water
+24,98,juice nectars,2,2,38890,No Pulp Calcium & Vitamin D Pure Premium 100% Pure Orange Juice
+24,98,juice nectars,2,3,13113,Organic Apple Juice Boxes
+24,98,juice nectars,2,4,35199,100% Apple Juice
+24,98,juice nectars,3,0,2966,Pure Coconut Water
+24,98,juice nectars,3,1,42719,Natural Premium Coconut Water
+24,98,juice nectars,3,2,18811,Organic Apple Juice
+24,98,juice nectars,3,3,19173,Orange Calcium & Vitamin D Pulp Free
+24,98,juice nectars,3,4,30639,Organic Orange Juice
+24,98,juice nectars,4,0,24850,Organic Super Fruit Punch Juice Drink
+24,98,juice nectars,4,1,36036,Organic Orange Fruit Juice
+24,98,juice nectars,4,2,45840,100% Pure Apple Juice
+24,98,juice nectars,4,3,37552,Sparkling Blackberry Juice
+24,98,juice nectars,4,4,32156,Cranberry Juice Cocktail
+24,98,juice nectars,5,0,36085,Berry Berry Good Lemonade Organic Juice Drink
+24,98,juice nectars,5,1,32553,"Country Stand Juice, Medium Pulp"
+24,98,juice nectars,5,2,44098,Appley Ever After Organic Juice Drink
+24,98,juice nectars,5,3,13259,Organic Variety Pack
+24,98,juice nectars,5,4,3835,"Coconut Water, Pure Organic"
+24,98,juice nectars,6,0,37971,Organic Cranberry Pomegranate Juice
+24,98,juice nectars,6,1,25332,Unsweetened Coconut Water
+24,98,juice nectars,6,2,47325,100% Pomegranate Juice
+24,98,juice nectars,6,3,32047,Original Apple 100% Juice
+24,98,juice nectars,6,4,34423,Pure Organic Pineapple Juice
+24,98,juice nectars,7,0,28913,100% Lime Juice
+24,98,juice nectars,7,1,20697,Organic Pure Lime Juice
+24,98,juice nectars,7,2,16387,Cold-Pressed Organic Grapefruit
+24,98,juice nectars,7,3,14971,Pineapple Coconut Water
+24,98,juice nectars,7,4,12039,Organic Pear Juice
+25,17,baking ingredients,0,0,26767,No Calorie Sweetener Packets
+25,17,baking ingredients,0,1,31471,Semisweet Chocolate Chips
+25,17,baking ingredients,0,2,13639,Sliced Almonds
+25,17,baking ingredients,0,3,1063,Extra Dark Chocolate Baking Chips
+25,17,baking ingredients,0,4,39054,Unsweetened Cocoa Powder
+25,17,baking ingredients,1,0,44303,Organic Shredded Unsweetened Coconut
+25,17,baking ingredients,1,1,44912,Baking Powder
+25,17,baking ingredients,1,2,22890,Toll House Semi-Sweet Chocolate Morsels
+25,17,baking ingredients,1,3,8903,Semi-Sweet Mini Chocolate Chips
+25,17,baking ingredients,1,4,2099,Natural Cane Turbinado Sugar
+25,17,baking ingredients,2,0,22142,100% Pure Pumpkin
+25,17,baking ingredients,2,1,27243,Premium Pure Cane Granulated Sugar
+25,17,baking ingredients,2,2,34551,Organic Cane Sugar
+25,17,baking ingredients,2,3,15359,All Purpose Flour
+25,17,baking ingredients,2,4,35855,Unbleached All-Purpose Flour
+25,17,baking ingredients,3,0,23537,Light Brown Sugar
+25,17,baking ingredients,3,1,23516,Organic Unbleached All-Purpose Flour
+25,17,baking ingredients,3,2,7500,Organic Vanilla Extract
+25,17,baking ingredients,3,3,49533,Cane Sugar
+25,17,baking ingredients,3,4,23405,Pure Baking Soda
+25,17,baking ingredients,4,0,8671,Semi-Sweet Chocolate Premium Baking Chips
+25,17,baking ingredients,4,1,41570,Active Dry Yeast
+25,17,baking ingredients,4,2,27451,Almond Meal/Flour
+25,17,baking ingredients,4,3,13874,Organic Pumpkin
+25,17,baking ingredients,4,4,397,Pure Granulated Cane Sugar
+25,17,baking ingredients,5,0,38067,Coconut Flakes
+25,17,baking ingredients,5,1,2350,60% Cacao Bittersweet Premium Baking Chips
+25,17,baking ingredients,5,2,43920,Organic Powdered Sugar
+25,17,baking ingredients,5,3,32850,Organic Pumpkin Puree
+25,17,baking ingredients,5,4,46473,Pure Vanilla Extract
+25,17,baking ingredients,6,0,30731,Pure Cane Granulated White Sugar
+25,17,baking ingredients,6,1,37096,Jet Puffed Miniature Marshmallows
+25,17,baking ingredients,6,2,38231,Classic Air-Puffed Vanilla Flavored Marshmallows
+25,17,baking ingredients,6,3,31372,Dark Brown Sugar
+25,17,baking ingredients,6,4,19005,Jet-Puffed Marshmallows
+25,17,baking ingredients,7,0,31486,Zero Calorie Sweetener
+25,17,baking ingredients,7,1,27171,Bread Crumbs
+25,17,baking ingredients,7,2,37637,Pure Cane Confectioners Powdered Sugar
+25,17,baking ingredients,7,3,6550,Fridge and Freezer Baking Soda Pack
+25,17,baking ingredients,7,4,20022,Granulated White Cane Sugar
+26,53,cream,0,0,48808,Hazelnut Coffee Sugar Free CoffeeCreamer
+26,53,cream,0,1,6274,Squeeze Pouch Sour Cream
+26,53,cream,0,2,30995,Creme Fraiche French Cultured Cream
+26,53,cream,0,3,3434,Coffee Mate Natural Bliss Sweet Creme Coffee Creamer
+26,53,cream,0,4,38672,Hazelnut Fat Free Liquid Coffee Creamer
+26,53,cream,1,0,3479,Classic Whipped Cream
+26,53,cream,1,1,32700,Original Whipped Cream
+26,53,cream,1,2,33827,Fat Free French Vanilla Creamer
+26,53,cream,1,3,30597,French Vanilla Coffee Creamer
+26,53,cream,1,4,21910,Coconut Almond Creamer Blend
+26,53,cream,2,0,39581,French Vanilla Creamer
+26,53,cream,2,1,10473,Half And Half Cream
+26,53,cream,2,2,19511,Half And Half
+26,53,cream,2,3,47156,Coconut Almond Unsweetened Creamer Blend
+26,53,cream,2,4,5746,Heavy Cream
+26,53,cream,3,0,49235,Organic Half & Half
+26,53,cream,3,1,27086,Half & Half
+26,53,cream,3,2,18531,Organic Heavy Whipping Cream
+26,53,cream,3,3,44987,Heavy Whipping Cream
+26,53,cream,3,4,27744,Organic Whipping Cream
+26,53,cream,4,0,48186,Lactose Free Half & Half
+26,53,cream,4,1,25706,Hazelnut Bromstad Design Liquid Coffee Creamer
+26,53,cream,4,2,27531,Dairy Free Unsweetened Vanilla Coconut Milk
+26,53,cream,4,3,23763,French Vanilla Sugar Free Liquid Coffee Creamer
+26,53,cream,4,4,16757,Barista Blend Pure Almond Milk
+26,53,cream,5,0,6286,Half and Half
+26,53,cream,5,1,13203,Natural Bliss Salted Caramel Flavor All-Natural Coffee Creamer
+26,53,cream,5,2,4313,Star Wars Italian Sweet Creme Creamer
+26,53,cream,5,3,45531,Original Coffee Creamer
+26,53,cream,5,4,37886,Extra Creamy Dairy Whipped Topping
+26,53,cream,6,0,44053,Sweetened Light Whipped Cream
+26,53,cream,6,1,28464,"Whipped Light Cream, Original"
+26,53,cream,6,2,47815,Hazelnut Coffee Creamer
+26,53,cream,6,3,30492,French Vanilla Half+Half
+26,53,cream,6,4,18503,Light Cream
+26,53,cream,7,0,28080,Sugar Free Italian Sweet Creme Coffee Creamer
+26,53,cream,7,1,22640,Organic Half And Half
+26,53,cream,7,2,31846,Heavy Whip Cream
+26,53,cream,7,3,3407,Reddi Wip Fat Free Whip Cream
+26,53,cream,7,4,13388,Land O' Lakes Mini Moo's Half & Half
+27,117,nuts seeds dried fruit,0,0,39332,Dried Mangoes
+27,117,nuts seeds dried fruit,0,1,26768,Organic Thompson Raisins
+27,117,nuts seeds dried fruit,0,2,5296,Roasted Salted Almonds
+27,117,nuts seeds dried fruit,0,3,38077,Hemp Hearts Raw Shelled Hemp Seeds
+27,117,nuts seeds dried fruit,0,4,42579,Organic Pitted Prunes
+27,117,nuts seeds dried fruit,1,0,12023,Toasted Coconut Chips Original Recipe
+27,117,nuts seeds dried fruit,1,1,3988,Roasted Salted Peanuts
+27,117,nuts seeds dried fruit,1,2,28918,Marcona Almonds
+27,117,nuts seeds dried fruit,1,3,31737,Organic Freeze Dried Strawberries
+27,117,nuts seeds dried fruit,1,4,10441,Dry Roasted Almonds
+27,117,nuts seeds dried fruit,2,0,12845,Chopped Walnuts
+27,117,nuts seeds dried fruit,2,1,31651,Extra Fancy Unsalted Mixed Nuts
+27,117,nuts seeds dried fruit,2,2,29926,Roasted & Salted Almonds
+27,117,nuts seeds dried fruit,2,3,14901,Raisins
+27,117,nuts seeds dried fruit,2,4,13819,Roasted Salted Cashews
+27,117,nuts seeds dried fruit,3,0,35140,Organic Whole Cashews
+27,117,nuts seeds dried fruit,3,1,5134,Organic Thompson Seedless Raisins
+27,117,nuts seeds dried fruit,3,2,7503,Whole Almonds
+27,117,nuts seeds dried fruit,3,3,16521,Walnut Halves & Pieces
+27,117,nuts seeds dried fruit,3,4,20734,Organic Medjool Dates
+27,117,nuts seeds dried fruit,4,0,248,Dried Sweetened Cranberries
+27,117,nuts seeds dried fruit,4,1,34590,Pitted Dates
+27,117,nuts seeds dried fruit,4,2,7179,Chopped Pecans
+27,117,nuts seeds dried fruit,4,3,17568,Pitted Prunes
+27,117,nuts seeds dried fruit,4,4,11266,Dried Mangos
+27,117,nuts seeds dried fruit,5,0,30494,Organic Mango Slices
+27,117,nuts seeds dried fruit,5,1,37257,Organic Sweetened Cranberries
+27,117,nuts seeds dried fruit,5,2,35734,Whole Chia Seeds
+27,117,nuts seeds dried fruit,5,3,48600,Organic Cinnamon Apple Chips
+27,117,nuts seeds dried fruit,5,4,24236,Organic  Dried & Unsulfured Orchard Select Apricots
+27,117,nuts seeds dried fruit,6,0,42615,Dark Chocolate With Sea Salt & Almonds
+27,117,nuts seeds dried fruit,6,1,21293,Dry Roasted Lightly Salted Peanuts
+27,117,nuts seeds dried fruit,6,2,36259,Whole Natural Value Pack Almonds
+27,117,nuts seeds dried fruit,6,3,23484,Organic Pine Nuts
+27,117,nuts seeds dried fruit,6,4,10258,Pistachios
+27,117,nuts seeds dried fruit,7,0,11913,Shelled Pistachios
+27,117,nuts seeds dried fruit,7,1,43986,Natural California Raisins
+27,117,nuts seeds dried fruit,7,2,26505,Snack Size Vanilla Yogurt Raisins
+27,117,nuts seeds dried fruit,7,3,22920,Roasted & Salted Shelled Pistachios
+27,117,nuts seeds dried fruit,7,4,42300,Organic Vitality Snack Chia Squeeze Blackberry Bliss
+28,108,other creams cheeses,0,0,35176,Cream Cheese Cream Cheese Spread
+28,108,other creams cheeses,0,1,1240,Plain Better Than Cream Cheese
+28,108,other creams cheeses,0,2,45842,Natural Sour Cream
+28,108,other creams cheeses,0,3,5015,Organic Cottage Cheese Classic
+28,108,other creams cheeses,0,4,27790,Small Curd Lowfat 2% Milkfat Cottage Cheese
+28,108,other creams cheeses,1,0,11109,Organic 4% Milk Fat Whole Milk Cottage Cheese
+28,108,other creams cheeses,1,1,18689,Dairy-Free Chive Cream Cheese
+28,108,other creams cheeses,1,2,43712,Creme Fraiche
+28,108,other creams cheeses,1,3,21553,Lowfat 2% Milkfat Cottage Cheese
+28,108,other creams cheeses,1,4,27196,Pure & Natural Light Sour Cream
+28,108,other creams cheeses,2,0,11005,Organic Cream Cheese Bar
+28,108,other creams cheeses,2,1,21333,Original Whipped Cream Cheese
+28,108,other creams cheeses,2,2,27323,Pure & Natural Sour Cream
+28,108,other creams cheeses,2,3,2314,Whole Milk Ricotta Cheese
+28,108,other creams cheeses,2,4,13083,Lowfat Small Curd Cottage Cheese
+28,108,other creams cheeses,3,0,42828,Whipped Cream Cheese
+28,108,other creams cheeses,3,1,42701,Organic Sour Cream
+28,108,other creams cheeses,3,2,23734,Sour Cream
+28,108,other creams cheeses,3,3,28476,Organic Small Curd Cottage Cheese
+28,108,other creams cheeses,3,4,37029,Cream Cheese Spread
+28,108,other creams cheeses,4,0,9808,Organic Cottage Cheese
+28,108,other creams cheeses,4,1,36086,Philadelphia Original Cream Cheese
+28,108,other creams cheeses,4,2,40593,Cream Cheese
+28,108,other creams cheeses,4,3,26172,Light Sour Cream
+28,108,other creams cheeses,4,4,27801,Philadelphia Cream Cheese Spread
+28,108,other creams cheeses,5,0,38596,Part Skim Ricotta Cheese
+28,108,other creams cheeses,5,1,1006,Philadelphia Cream Cheese
+28,108,other creams cheeses,5,2,29095,Original Cream Cheese
+28,108,other creams cheeses,5,3,38558,Organic Low Fat Cottage Cheese
+28,108,other creams cheeses,5,4,3800,Hampshire 100% Natural Sour Cream
+28,108,other creams cheeses,6,0,1503,Low Fat Cottage Cheese
+28,108,other creams cheeses,6,1,42307,Organic Reduced Fat 2% Cottage Cheese
+28,108,other creams cheeses,6,2,28420,Organic Cultured Low Fat 1% Cottage Cheese
+28,108,other creams cheeses,6,3,38154,Original Sour Cream
+28,108,other creams cheeses,6,4,48957,Milk Free Better Than Sour Cream
+28,108,other creams cheeses,7,0,17803,Organic Cultured Sour Cream
+28,108,other creams cheeses,7,1,24053,Whipped Cream Cheese Spread
+28,108,other creams cheeses,7,2,33642,Lactose Free Cream Cheese
+28,108,other creams cheeses,7,3,41674,Reduced-fat Soft Cream Cheese
+28,108,other creams cheeses,7,4,49374,Organic Cultured Cream Cheese Spread
+29,106,hot dogs bacon sausage,0,0,8460,Hearty Thick Cut Bacon
+29,106,hot dogs bacon sausage,0,1,18727,Smoked Apple Sage Sausages
+29,106,hot dogs bacon sausage,0,2,17828,Organic Spinach & Feta Dinner Sausage
+29,106,hot dogs bacon sausage,0,3,15599,Naturally Hickory Smoked Thick Cut Bacon
+29,106,hot dogs bacon sausage,0,4,20760,Pork Breakfast Sausage
+29,106,hot dogs bacon sausage,1,0,8025,Uncured Beef Hot Dogs
+29,106,hot dogs bacon sausage,1,1,14814,Gluteen Free Center Cut Applewood Smoked Uncured Bacon
+29,106,hot dogs bacon sausage,1,2,25985,Chicken & Apple Smoked Chicken Sausage
+29,106,hot dogs bacon sausage,1,3,36431,Hardwood Smoked Bacon
+29,106,hot dogs bacon sausage,1,4,48795,Organic Turkey Hot Dogs
+29,106,hot dogs bacon sausage,2,0,12456,Organic Sunday Bacon
+29,106,hot dogs bacon sausage,2,1,4421,Organic Beef Uncured Hot Dogs
+29,106,hot dogs bacon sausage,2,2,10814,Applewood Smoked Bacon
+29,106,hot dogs bacon sausage,2,3,46041,Beef Franks
+29,106,hot dogs bacon sausage,2,4,28986,Mild Italian Chicken Sausage
+29,106,hot dogs bacon sausage,3,0,47672,Uncured Hickory Smoked Sunday Bacon
+29,106,hot dogs bacon sausage,3,1,45633,Organic Beef Hot Dogs
+29,106,hot dogs bacon sausage,3,2,5646,Organic Turkey Bacon
+29,106,hot dogs bacon sausage,3,3,27695,Natural Chicken & Sage Breakfast Sausage
+29,106,hot dogs bacon sausage,3,4,9339,Organic Chicken & Apple Sausage
+29,106,hot dogs bacon sausage,4,0,7952,Chicken & Apple Breakfast Sausage
+29,106,hot dogs bacon sausage,4,1,33279,Low Sodium Bacon
+29,106,hot dogs bacon sausage,4,2,35752,Hardwood SmokedCenter Cut Original Bacon
+29,106,hot dogs bacon sausage,4,3,1117,Turkey Bacon
+29,106,hot dogs bacon sausage,4,4,47900,"Uncured, No Sugar, Hickory Smoked Bacon"
+29,106,hot dogs bacon sausage,5,0,39046,Smok Cured Turkey Bacon
+29,106,hot dogs bacon sausage,5,1,2763,Uncured Hickory Smoked Bacon
+29,106,hot dogs bacon sausage,5,2,33081,Chicken Apple Sausage
+29,106,hot dogs bacon sausage,5,3,32839,Dry Rubbed Thick Sliced Pork Bacon
+29,106,hot dogs bacon sausage,5,4,28769,Organic Apple Chicken Sausage
+29,106,hot dogs bacon sausage,6,0,9547,Turkey Franks
+29,106,hot dogs bacon sausage,6,1,30960,Regular Pork Sausage Tube
+29,106,hot dogs bacon sausage,6,2,907,Premium Sliced Bacon
+29,106,hot dogs bacon sausage,6,3,20518,"Club Delight Sausage, Egg, & Cheese Sandwiches"
+29,106,hot dogs bacon sausage,6,4,44566,Thick Cut Bacon
+29,106,hot dogs bacon sausage,7,0,39013,Smoked Fresh Turkey Kielbasa
+29,106,hot dogs bacon sausage,7,1,14280,Wieners
+29,106,hot dogs bacon sausage,7,2,32959,Jumbo Veggie Protein Smart Dogs Links
+29,106,hot dogs bacon sausage,7,3,12782,Bun Length Beef Franks
+29,106,hot dogs bacon sausage,7,4,3529,Fully Cooked Original Bacon
+30,45,candy chocolate,0,0,7753,Dark Chocolate Pumpkin Seed Bark
+30,45,candy chocolate,0,1,31886,Pretzel In Milk Chocolate Bar
+30,45,candy chocolate,0,2,30695,Milk Chocolate Bar
+30,45,candy chocolate,0,3,21100,Peanut Chocolate Candy
+30,45,candy chocolate,0,4,15655,Dark Chocolate Mint Snacking Chocolate
+30,45,candy chocolate,1,0,22164,"Cherries & Almonds in Dark Chocolate, 55% Cocoa"
+30,45,candy chocolate,1,1,8324,Organic Bagged Mini Milk Peanut Butter
+30,45,candy chocolate,1,2,7325,Dark Blackout Organic Chocolate
+30,45,candy chocolate,1,3,16732,Peanut Milk Chocolate XXL Bag
+30,45,candy chocolate,1,4,12033,Raspberries Dark Chocolate Bar
+30,45,candy chocolate,2,0,39657,Milk Chocolate Almonds
+30,45,candy chocolate,2,1,13424,Almonds
+30,45,candy chocolate,2,2,37276,"Bar, Toffee & Almonds in Milk Chocolate"
+30,45,candy chocolate,2,3,45445,Organic Bagged Mini Dark Peanut Butter
+30,45,candy chocolate,2,4,37496,Organic Deep Dark Sea Salt Chocolate
+30,45,candy chocolate,3,0,38164,Almonds & Sea Salt in Dark Chocolate
+30,45,candy chocolate,3,1,46616,Organic Dark Chocolate Peanut Butter Cups
+30,45,candy chocolate,3,2,2480,Organic 85% Cacao Dark Chocolate Bar
+30,45,candy chocolate,3,3,43192,Dark with 70% Cacao Content Organic Chocolate Bar
+30,45,candy chocolate,3,4,29077,Organic Milk Chocolate Peanut Butter Cups
+30,45,candy chocolate,4,0,20178,Organic Quinoa Dark Chocolate Bar
+30,45,candy chocolate,4,1,43165,Orange Peel In Dark Chocolate Bar
+30,45,candy chocolate,4,2,17526,70% Dark Chocolate Salted Almond Bar
+30,45,candy chocolate,4,3,8843,Milk Chocolate Covered Raisins
+30,45,candy chocolate,4,4,41007,Toffee & Sea Salt Milk Chocolate Bar
+30,45,candy chocolate,5,0,38226,Dark Chocolate Chips
+30,45,candy chocolate,5,1,8381,34% Cacao Milk Chocolate Bar
+30,45,candy chocolate,5,2,46755,Dark Chocolate with 88% Cocoa
+30,45,candy chocolate,5,3,47621,Chocolate Strong Dark
+30,45,candy chocolate,5,4,39886,Gin Gins Original Chewy Ginger Candy
+30,45,candy chocolate,6,0,27839,49 Flavors Jelly Belly Jelly Beans
+30,45,candy chocolate,6,1,36849,Milk Chocolate Candy Bars
+30,45,candy chocolate,6,2,8667,Organic Pure 85% Dark Chocolate Bar
+30,45,candy chocolate,6,3,31444,Crystallized Ginger In Dark Chocolate  Bar
+30,45,candy chocolate,6,4,4927,Organic Mint Dark Chocolate Bar
+30,45,candy chocolate,7,0,49005,Dark Brown Butter Organic Chocolate
+30,45,candy chocolate,7,1,37213,Excellence 70% Cocoa Smooth Dark Chocolate Bar
+30,45,candy chocolate,7,2,39649,Dove Dark Chocolate Snowflake Promises
+30,45,candy chocolate,7,3,27714,Gummy Bears
+30,45,candy chocolate,7,4,34281,70% Dark Chocolate Bar
+31,81,canned jarred vegetables,0,0,12232,Original Diced Tomatoes & Green Chilies
+31,81,canned jarred vegetables,0,1,48848,Organic Strained Tomatoes
+31,81,canned jarred vegetables,0,2,43933,Organic Unsalted Diced Tomatoes
+31,81,canned jarred vegetables,0,3,20323,Strained Tomatoes
+31,81,canned jarred vegetables,0,4,22007,Minced Ginger
+31,81,canned jarred vegetables,1,0,16525,Organic Chopped Garlic
+31,81,canned jarred vegetables,1,1,31727,"Organic Tomato Paste, No Salt Added"
+31,81,canned jarred vegetables,1,2,40992,Chopped Tomatoes
+31,81,canned jarred vegetables,1,3,9689,Whole Hearts of Palm
+31,81,canned jarred vegetables,1,4,23400,Organic Premium Tomato Paste
+31,81,canned jarred vegetables,2,0,3376,Organic Whole Kernel Sweet Corn No Salt Added
+31,81,canned jarred vegetables,2,1,11408,Crushed Tomatoes
+31,81,canned jarred vegetables,2,2,5373,Organic No Salt Added Diced Tomatoes
+31,81,canned jarred vegetables,2,3,41544,Organic Crushed Fire Roasted Tomatoes
+31,81,canned jarred vegetables,2,4,20520,Mild Diced Green Chiles
+31,81,canned jarred vegetables,3,0,890,Organic Diced Tomatoes
+31,81,canned jarred vegetables,3,1,7021,Organic Tomato Paste
+31,81,canned jarred vegetables,3,2,8670,Diced Tomatoes
+31,81,canned jarred vegetables,3,3,44449,Organic Tomato Sauce
+31,81,canned jarred vegetables,3,4,22395,Tomato Sauce
+31,81,canned jarred vegetables,4,0,30480,"Tomatoes, Whole Peeled"
+31,81,canned jarred vegetables,4,1,25544,Fresh Cut Golden Sweet Whole Kernel Corn
+31,81,canned jarred vegetables,4,2,12797,Organic Whole Peeled Tomatoes
+31,81,canned jarred vegetables,4,3,48094,Crushed Tomatoes With Basil
+31,81,canned jarred vegetables,4,4,17862,Minced Garlic
+31,81,canned jarred vegetables,5,0,48871,Natural Tomato Paste
+31,81,canned jarred vegetables,5,1,4487,Vegetarian Organic Golden Corn
+31,81,canned jarred vegetables,5,2,13304,Whole Peeled Tomatoes
+31,81,canned jarred vegetables,5,3,34449,100% Natural Tomato Sauce
+31,81,canned jarred vegetables,5,4,21010,Organic Crushed Tomatoes with Basil
+31,81,canned jarred vegetables,6,0,11265,100% Natural Diced Tomatoes
+31,81,canned jarred vegetables,6,1,30953,Sliced Beets No Salt Added
+31,81,canned jarred vegetables,6,2,3550,Organic Diced Fire Roasted Tomatoes
+31,81,canned jarred vegetables,6,3,21278,All Purpose Crushed Tomatoes
+31,81,canned jarred vegetables,6,4,2954,Organic Diced Fire Roasted No Salt Added Tomatoes
+31,81,canned jarred vegetables,7,0,2024,Organic Diced Tomatoes Fire Roasted with Medium Green Chilies
+31,81,canned jarred vegetables,7,1,15664,Tomatoes Sauce
+31,81,canned jarred vegetables,7,2,10978,Organic Tomato Puree
+31,81,canned jarred vegetables,7,3,6758,Hearts Of Palm
+31,81,canned jarred vegetables,7,4,35166,Double Concentrated Tomato Paste in Tube
+32,88,spreads,0,0,16479,"Fruit Spread, Deluxe, Strawberry"
+32,88,spreads,0,1,33825,Four Fruits Preserves
+32,88,spreads,0,2,36287,Smooth Operator Natural Peanut Butter
+32,88,spreads,0,3,7987,Hazelnut Spread with Cocoa
+32,88,spreads,0,4,7308,Organic Hazelnut Spread
+32,88,spreads,1,0,40261,Extra Crunchy Peanut Butter
+32,88,spreads,1,1,18171,Natural Sunflower Spread
+32,88,spreads,1,2,27044,Maple Almond Butter
+32,88,spreads,1,3,1203,Crunchy Organic Dark Roasted Peanut Butter
+32,88,spreads,1,4,22721,Creamy Peanut Butter Dark Roasted
+32,88,spreads,2,0,4656,Raspberry Preserves
+32,88,spreads,2,1,42557,Crunchy Almond Butter
+32,88,spreads,2,2,31338,Classic Almond Butter
+32,88,spreads,2,3,8239,Peanut Butter Creamy With Salt
+32,88,spreads,2,4,4006,Hazelnut Spread With Skim Milk & Cocoa
+32,88,spreads,3,0,30450,Creamy Almond Butter
+32,88,spreads,3,1,16953,Creamy Peanut Butter
+32,88,spreads,3,2,43713,Organic Creamy Peanut Butter
+32,88,spreads,3,3,42356,Strawberry Preserves
+32,88,spreads,3,4,37220,Organic Strawberry Fruit Spread
+32,88,spreads,4,0,1360,Crunchy Peanut Butter
+32,88,spreads,4,1,41198,Classic Peanut Butter
+32,88,spreads,4,2,12962,Apricot Preserves
+32,88,spreads,4,3,32338,Natural Jif Creamy Peanut Butter Spread
+32,88,spreads,4,4,18891,Classic Almond Butter All Natural
+32,88,spreads,5,0,1819,All Natural No Stir Creamy Almond Butter
+32,88,spreads,5,1,17200,Wild Blueberry Preserves
+32,88,spreads,5,2,44728,Creamy Natural Peanut Butter And Flaxseed
+32,88,spreads,5,3,34582,Natural Creamy Peanut Butter Spread
+32,88,spreads,5,4,15008,Chocolate Hazelnut Butter
+32,88,spreads,6,0,44830,All Natural Maple Almond Butter
+32,88,spreads,6,1,30855,Chocolate Hazelnut Butter Blend
+32,88,spreads,6,2,17830,Premium Organic Strawberry Spread
+32,88,spreads,6,3,36005,Seedless Strawberry Jam
+32,88,spreads,6,4,20168,Organic Sunflower Seed Spread
+32,88,spreads,7,0,13974,Reduced Fat Creamy Peanut Butter Spread
+32,88,spreads,7,1,20382,Natural Honey Peanut Butter
+32,88,spreads,7,2,32611,Honey Almond Butter Single
+32,88,spreads,7,3,38439,Mara Natha Organic Peanut Butter Creamy
+32,88,spreads,7,4,9932,Natural Creamy Peanut Butter
+33,32,packaged produce,0,0,23985,Baby Eggplant
+33,32,packaged produce,0,1,49083,Organic Limes
+33,32,packaged produce,0,2,27984,Sleeve of Tuscan Melons
+33,32,packaged produce,0,3,9189,Organic Avocados 5 Count
+33,32,packaged produce,0,4,35826,Baby Mixed Squash
+33,32,packaged produce,1,0,8953,Key Limes
+33,32,packaged produce,1,1,42282,Bag of Jumbo Yellow Onions
+33,32,packaged produce,1,2,35269,Vegetable Tray With Low Fat Dressing
+33,32,packaged produce,1,3,15772,Pineapple Spears
+33,32,packaged produce,1,4,21385,Butter Lettuce
+33,32,packaged produce,2,0,8048,Packaged Grape Tomatoes
+33,32,packaged produce,2,1,19691,Green Seedless Grapes
+33,32,packaged produce,2,2,38768,Sweet Kale Salad Mix
+33,32,packaged produce,2,3,21292,Rainbow Bell Peppers
+33,32,packaged produce,2,4,5068,Cauliflower Florets
+33,32,packaged produce,3,0,43352,Raspberries
+33,32,packaged produce,3,1,12341,Hass Avocados
+33,32,packaged produce,3,2,6184,Clementines
+33,32,packaged produce,3,3,8571,Baby Cucumbers
+33,32,packaged produce,3,4,30827,Seedless Cucumbers
+33,32,packaged produce,4,0,4724,Broccoli Florettes
+33,32,packaged produce,4,1,31805,Gourmet Tomato Medley
+33,32,packaged produce,4,2,3265,Mini Seedless Watermelon Pack
+33,32,packaged produce,4,3,11365,Leaf Spinach
+33,32,packaged produce,4,4,8803,Fully Husked & Trimmed Super Sweet Corn
+33,32,packaged produce,5,0,35886,Organic Blueberries Clamshell
+33,32,packaged produce,5,1,5985,Red Bell Peppers
+33,32,packaged produce,5,2,46266,California Heirloom Monviso Peeled Garlic
+33,32,packaged produce,5,3,7252,Deep Green Blends Kale
+33,32,packaged produce,5,4,13097,Fresh Cut Butternut Squash
+33,32,packaged produce,6,0,32613,Bing Dark Red Sweet Cherries
+33,32,packaged produce,6,1,1672,English Cucumbers
+33,32,packaged produce,6,2,43352,Raspberries
+33,32,packaged produce,6,3,12341,Hass Avocados
+33,32,packaged produce,6,4,6184,Clementines
+33,32,packaged produce,7,0,8571,Baby Cucumbers
+33,32,packaged produce,7,1,30827,Seedless Cucumbers
+33,32,packaged produce,7,2,8048,Packaged Grape Tomatoes
+33,32,packaged produce,7,3,19691,Green Seedless Grapes
+33,32,packaged produce,7,4,38768,Sweet Kale Salad Mix
+34,59,canned meals beans,0,0,3512,Black Beans Reduced Sodium
+34,59,canned meals beans,0,1,18625,Black Beans Refried Beans
+34,59,canned meals beans,0,2,15630,Organic Fat Free Refried Pinto Beans
+34,59,canned meals beans,0,3,13858,Organic All Stars Pasta In Tomato & Cheese Sauce
+34,59,canned meals beans,0,4,10467,Organic Bernie O's
+34,59,canned meals beans,1,0,42617,Organic Great Northern Beans
+34,59,canned meals beans,1,1,20127,Organic Lentil Beans
+34,59,canned meals beans,1,2,17634,Chick Peas
+34,59,canned meals beans,1,3,41463,Cannellini Beans
+34,59,canned meals beans,1,4,21936,Vegetarian Refried Beans
+34,59,canned meals beans,2,0,16145,Organic Cannellini Beans
+34,59,canned meals beans,2,1,27683,Black Beans No Salt Added
+34,59,canned meals beans,2,2,32717,Baked Beans
+34,59,canned meals beans,2,3,26668,Cannellini White Kidney Beans No Salt Added
+34,59,canned meals beans,2,4,5994,Traditional Refried Beans
+34,59,canned meals beans,3,0,27156,Organic Black Beans
+34,59,canned meals beans,3,1,42768,Organic Garbanzo Beans
+34,59,canned meals beans,3,2,28849,No Salt Added Black Beans
+34,59,canned meals beans,3,3,35042,Black Beans
+34,59,canned meals beans,3,4,49175,Organic Pinto Beans
+34,59,canned meals beans,4,0,35750,Organic Garbanzo Beans No Salt Added
+34,59,canned meals beans,4,1,14267,Organic Refried Black Beans
+34,59,canned meals beans,4,2,7461,Pinto Beans No Salt Added
+34,59,canned meals beans,4,3,790,Garbanzo Beans
+34,59,canned meals beans,4,4,5024,Dark Red Kidney Beans No Salt Added
+34,59,canned meals beans,5,0,429,Dark Red Kidney Beans
+34,59,canned meals beans,5,1,10006,Low Sodium Refried Black Beans
+34,59,canned meals beans,5,2,19886,Kidney Beans
+34,59,canned meals beans,5,3,27676,Pinto Beans
+34,59,canned meals beans,5,4,43205,Low Sodium Black Beans
+34,59,canned meals beans,6,0,22819,Organic Medium Chili
+34,59,canned meals beans,6,1,3469,Organic Vegetarian Mild Refried Beans With Green Chiles
+34,59,canned meals beans,6,2,45938,Best Cannellini White Kidney Beans
+34,59,canned meals beans,6,3,5210,Original Baked Beans
+34,59,canned meals beans,6,4,2015,Traditional 98% Fat Free
+34,59,canned meals beans,7,0,29112,Organic Spicy Chili
+34,59,canned meals beans,7,1,14643,Organic Light In Sodium Traditional Refried Beans
+34,59,canned meals beans,7,2,37055,Organic Cheesy Ravioli
+34,59,canned meals beans,7,3,32029,Low Sodium Organic Medium Chili
+34,59,canned meals beans,7,4,16456,Vegetarian Organic Chili Beans
+35,131,dry pasta,0,0,42699,Gluten Free Quinoa Pasta Shells
+35,131,dry pasta,0,1,5383,Organic Capellini
+35,131,dry pasta,0,2,25087,No Boil Lasagna
+35,131,dry pasta,0,3,12036,Gluten-Free Supergrain Pasta Organic Corn & Quinoa Blend Penne
+35,131,dry pasta,0,4,24263,Organic Fettuccine
+35,131,dry pasta,1,0,12564,Rigatoni Pasta
+35,131,dry pasta,1,1,22952,Farfalle Pasta
+35,131,dry pasta,1,2,44325,Elbow Macaroni Pasta
+35,131,dry pasta,1,3,6101,Farfalle No. 93
+35,131,dry pasta,1,4,283,Organic Whole Wheat Elbows
+35,131,dry pasta,2,0,37825,Organic Whole Wheat Fusilli
+35,131,dry pasta,2,1,28278,Organic Penne Rigate
+35,131,dry pasta,2,2,23801,Fusilli No. 34
+35,131,dry pasta,2,3,9366,Penne Rigate #41 Pasta
+35,131,dry pasta,2,4,2180,Angel Hair Pasta
+35,131,dry pasta,3,0,32734,Spaghetti
+35,131,dry pasta,3,1,12872,Penne Rigate
+35,131,dry pasta,3,2,46522,Spaghetti Pasta
+35,131,dry pasta,3,3,5240,Spaghetti  No 12
+35,131,dry pasta,3,4,14168,Penne Pasta
+35,131,dry pasta,4,0,29898,Organic Spaghetti Pasta
+35,131,dry pasta,4,1,40229,Organic Whole Wheat Penne Rigate
+35,131,dry pasta,4,2,20549,Organic Orzo
+35,131,dry pasta,4,3,24097,Rotini Pasta
+35,131,dry pasta,4,4,43076,Wide Egg Noodles
+35,131,dry pasta,5,0,45290,Thin Spaghetti Pasta
+35,131,dry pasta,5,1,11078,Macaroni Elbows
+35,131,dry pasta,5,2,424,Linguine Pasta
+35,131,dry pasta,5,3,36322,Thin Spaghetti No 11
+35,131,dry pasta,5,4,19938,Extra Wide Egg Noodles
+35,131,dry pasta,6,0,14477,Organic Spaghetti
+35,131,dry pasta,6,1,45582,Cavatappi No. 87 Macaroni
+35,131,dry pasta,6,2,48450,Organic Brown Rice Pasta Spirals
+35,131,dry pasta,6,3,30057,Orzo Pasta
+35,131,dry pasta,6,4,48802,Organic Whole Wheat Fusilli Pasta
+35,131,dry pasta,7,0,1994,Organic Gluten Free Quinoa Spaghetti
+35,131,dry pasta,7,1,23898,Organic Gluten Free Fusilli
+35,131,dry pasta,7,2,9224,Gluten-Free Supergrain Pasta Elbows
+35,131,dry pasta,7,3,21057,Organic Brown Rice Spaghetti
+35,131,dry pasta,7,4,8654,Pasta Joy Ready Organic Brown Rice Pasta Penne
+36,36,butter,0,0,12738,Original Spray
+36,36,butter,0,1,23026,Salted Butter Half Sticks
+36,36,butter,0,2,4986,Light Butter with Canola
+36,36,butter,0,3,18413,European-Style Cultured Butter
+36,36,butter,0,4,33100,Unsalted Sweet Butter
+36,36,butter,1,0,42475,Unsalted Butter Quarters
+36,36,butter,1,1,48192,Butter with Olive Oil & Sea Salt
+36,36,butter,1,2,32347,European Style Unsalted Butter
+36,36,butter,1,3,10527,Whipped Butter
+36,36,butter,1,4,46045,Reduced Fat Irish Butter
+36,36,butter,2,0,651,Organic Salted Butter
+36,36,butter,2,1,15613,Salted Tub of Butter
+36,36,butter,2,2,9337,Purity Farms Ghee Clarified Butter
+36,36,butter,2,3,5460,Butter
+36,36,butter,2,4,47601,Unsalted Cultured Butter
+36,36,butter,3,0,42736,Unsalted Butter
+36,36,butter,3,1,33000,Pure Irish Butter
+36,36,butter,3,2,7948,Organic Unsalted Butter
+36,36,butter,3,3,35108,Salted Butter
+36,36,butter,3,4,2078,Unsalted Pure Irish Butter
+36,36,butter,4,0,13802,Salted Sweet Cream Butter
+36,36,butter,4,1,14147,Sweet Cream Salted Butter
+36,36,butter,4,2,27241,Cultured Pasture Butter
+36,36,butter,4,3,10798,Organic Salted Individually Wrapped Quarters Butter
+36,36,butter,4,4,47185,Spreadable Butter with Canola Oil
+36,36,butter,5,0,37654,Butter with Canola Oil Spread
+36,36,butter,5,1,29405,European Style Salted Butter
+36,36,butter,5,2,44397,Organic European Style Sweet Unsalted Butter
+36,36,butter,5,3,14634,Original Spread
+36,36,butter,5,4,5716,Original Buttery Spread
+36,36,butter,6,0,25122,Organic European Style Lightly Salted Butter
+36,36,butter,6,1,11488,Vegetable Oil & Nonfat Yogurt Spread
+36,36,butter,6,2,12720,Light Spread Butter Substitute
+36,36,butter,6,3,24713,Light Butter with Canola Oil
+36,36,butter,6,4,45194,Unsalted Sweet Cream Butter
+36,36,butter,7,0,10667,Imported Butter
+36,36,butter,7,1,2237,Homemade Salted Butter
+36,36,butter,7,2,42002,Pasture Raised Salted Butter
+36,36,butter,7,3,35976,Sweet Cream Whipped Butter Salted
+36,36,butter,7,4,14929,Unsalted Homemade Butter
+37,93,breakfast bakery,0,0,24062,Flourless  Sprouted Whole Grain 7-Sprouted Grains English Muffins
+37,93,breakfast bakery,0,1,13541,100% Whole Wheat Bagels
+37,93,breakfast bakery,0,2,22170,Organic Multigrain with Flax English Muffins
+37,93,breakfast bakery,0,3,38775,Blueberry Muffins
+37,93,breakfast bakery,0,4,44275,Mini Blueberry Muffins
+37,93,breakfast bakery,1,0,13866,Deluxe Plain Bagels
+37,93,breakfast bakery,1,1,20682,Cinnamon Raisin Swirl Pre-Sliced Bagels
+37,93,breakfast bakery,1,2,14764,Organic Sprouted Wheat Bagels
+37,93,breakfast bakery,1,3,12258,Organic White English Muffins
+37,93,breakfast bakery,1,4,27554,Gluten Free Blueberry Muffins
+37,93,breakfast bakery,2,0,42460,Plain Mini Bagels
+37,93,breakfast bakery,2,1,48857,Authentic French Brioche
+37,93,breakfast bakery,2,2,17341,Presliced Everything Bagels
+37,93,breakfast bakery,2,3,31371,Whole Wheat English Muffins
+37,93,breakfast bakery,2,4,3849,Organic Sprouted English Muffin
+37,93,breakfast bakery,3,0,10673,Original Nooks & Crannies English Muffins
+37,93,breakfast bakery,3,1,17706,Organic Whole Grain Wheat English Muffins
+37,93,breakfast bakery,3,2,20738,Plain Bagels
+37,93,breakfast bakery,3,3,46842,Plain Pre-Sliced Bagels
+37,93,breakfast bakery,3,4,16262,Everything Bagels
+37,93,breakfast bakery,4,0,30561,Plain Bagelettes
+37,93,breakfast bakery,4,1,33351,Light Multi-Grain English Muffins
+37,93,breakfast bakery,4,2,3919,Hearty Grains 100% Whole Wheat English Muffins
+37,93,breakfast bakery,4,3,33037,Wheat English Muffins
+37,93,breakfast bakery,4,4,116,English Muffins
+37,93,breakfast bakery,5,0,19366,Sprouted Organic Cinnamon Raisin English Muffins
+37,93,breakfast bakery,5,1,38988,White English Muffins
+37,93,breakfast bakery,5,2,46516,Sesame Bagels
+37,93,breakfast bakery,5,3,42508,Gluten Free Plain Bagels
+37,93,breakfast bakery,5,4,3308,Original English Muffins
+37,93,breakfast bakery,6,0,35458,100% Whole Wheat Pre-Sliced Bagels
+37,93,breakfast bakery,6,1,5422,Deluxe Everything Bagels
+37,93,breakfast bakery,6,2,42637,"Muffins, Flax, Wild Blueberry"
+37,93,breakfast bakery,6,3,30440,Chocolate Crepes
+37,93,breakfast bakery,6,4,32585,Sprouted Wheat Cinnamon Raisin Bagels
+37,93,breakfast bakery,7,0,35181,Extra Crisp English Muffins
+37,93,breakfast bakery,7,1,18095,Gluten Free Whole Grain Bagels
+37,93,breakfast bakery,7,2,25832,Morning Rounds Muesli Fruit & Grain Buns
+37,93,breakfast bakery,7,3,33508,Plain Pre-Sliced Bagel Thins
+37,93,breakfast bakery,7,4,28515,Bagel Thins Everything
+38,94,tea,0,0,13660,Original Kombucha
+38,94,tea,0,1,14366,Enlighten Mint Organic
+38,94,tea,0,2,40749,Organic Green Tea Bags
+38,94,tea,0,3,34956,English Breakfast Black Tea Bags
+38,94,tea,0,4,37188,Organic Lori's Lemon Tea
+38,94,tea,1,0,43739,Variety Diet Tea
+38,94,tea,1,1,11421,Moroccan Mint Herbal Tea
+38,94,tea,1,2,42183,Super Antioxidant Green Tea
+38,94,tea,1,3,47114,Classic Green Tea
+38,94,tea,1,4,14788,Unsweetened Iced Tea
+38,94,tea,2,0,45223,Just Green Unsweetened Tea
+38,94,tea,2,1,48946,Earl Grey Tea
+38,94,tea,2,2,15693,Organic Peach Oo La Long Tea
+38,94,tea,2,3,18606,Moroccan Mint Green Tea
+38,94,tea,2,4,6760,Organic Iced Green Tea
+38,94,tea,3,0,44292,Premium Unsweetened Iced Tea
+38,94,tea,3,1,4462,Pink Lady Apple Kombucha
+38,94,tea,3,2,10312,Zen Tea
+38,94,tea,3,3,48988,Unsweetened Premium Iced Tea
+38,94,tea,3,4,35749,Ginger Tea
+38,94,tea,4,0,40411,Calm Chamomile Herbal Tea
+38,94,tea,4,1,3274,Black Tea Pyramids
+38,94,tea,4,2,29848,Diet Peach Tea
+38,94,tea,4,3,41621,Lemon Ginger Tea Bags
+38,94,tea,4,4,27117,Refresh Herbal Tea
+38,94,tea,5,0,13251,Organic Chamomile with Lavender Herbal Tea Bags
+38,94,tea,5,1,22290,Organic Chai Tea Bags
+38,94,tea,5,2,28613,Organic Grapefruit Ginger Sparkling Yerba Mate
+38,94,tea,5,3,29640,Unsweetened Ice Tea
+38,94,tea,5,4,20767,Organic Peppermint Herbal Tea
+38,94,tea,6,0,42611,Green Tea Green Ginger Tea Bags
+38,94,tea,6,1,30718,Unsweetened Pure & Smooth  Green Tea
+38,94,tea,6,2,2552,Organic Raw Pomegranate Kombucha
+38,94,tea,6,3,25069,Organic Aged Earl Grey Tea
+38,94,tea,6,4,20791,Bedtime Tea
+38,94,tea,7,0,25013,Unsweetened Elegant Jasmine Green Tea
+38,94,tea,7,1,22372,Organic Throat Coat Herbal Tea
+38,94,tea,7,2,34220,Honey Lavender Stress Relief Tea
+38,94,tea,7,3,43005,Organic Rooibos Tea
+38,94,tea,7,4,45036,Organic Half Tea & Half Lemonade
+39,19,oils vinegars,0,0,19653,Rich Taste Extra Virgin Olive Oil
+39,19,oils vinegars,0,1,23662,All Natural White Vinegar
+39,19,oils vinegars,0,2,15610,Balsamic Vinegar of Modena
+39,19,oils vinegars,0,3,37355,Organic Extra Virgin Coconut Oil
+39,19,oils vinegars,0,4,6649,Organic Oil Canola
+39,19,oils vinegars,1,0,9837,Original Cooking Spray
+39,19,oils vinegars,1,1,29694,Organic Coconut Oil
+39,19,oils vinegars,1,2,3808,Olive Oil Cooking Spray
+39,19,oils vinegars,1,3,41055,Organic Red Wine Vineger
+39,19,oils vinegars,1,4,18598,Expeller Pressed Coconut Oil Spray
+39,19,oils vinegars,2,0,40377,Unrefined Virgin Coconut Oil
+39,19,oils vinegars,2,1,12409,Organic Distilled White Vinegar
+39,19,oils vinegars,2,2,4461,Organic Raw Unfiltered Apple Cider Vinegar
+39,19,oils vinegars,2,3,45002,Organic Balsamic Vinegar Of Modena
+39,19,oils vinegars,2,4,22922,Organic Canola Oil
+39,19,oils vinegars,3,0,31506,Extra Virgin Olive Oil
+39,19,oils vinegars,3,1,21195,Organic Extra Virgin Olive Oil
+39,19,oils vinegars,3,2,10644,Italian Extra Virgin Olive Oil
+39,19,oils vinegars,3,3,48697,Canola Oil
+39,19,oils vinegars,3,4,18963,Apple Cider Vinegar
+39,19,oils vinegars,4,0,30021,Distilled White Vinegar
+39,19,oils vinegars,4,1,49585,Organic Refined Coconut Oil
+39,19,oils vinegars,4,2,35217,Toasted Sesame Seed Oil
+39,19,oils vinegars,4,3,20608,Grapeseed Oil
+39,19,oils vinegars,4,4,18761,Balsamic Vinegar Of Modena
+39,19,oils vinegars,5,0,31912,Avocado Oil
+39,19,oils vinegars,5,1,29382,Pure Vegetable Oil
+39,19,oils vinegars,5,2,13280,Unfiltered Extra Virgin Olive Oil
+39,19,oils vinegars,5,3,15455,Organic Extra Virgin Oil Olive
+39,19,oils vinegars,5,4,26307,Aged Red Wine Vinegar
+39,19,oils vinegars,6,0,21795,Extra Virgin Olive Oil Rich Taste
+39,19,oils vinegars,6,1,1942,Aged White Wine Vinegar
+39,19,oils vinegars,6,2,2597,Fresh Pressed Virgin Coconut Oil
+39,19,oils vinegars,6,3,26769,Organic Unrefined Coconut Oil
+39,19,oils vinegars,6,4,22128,Vegetable Oil
+39,19,oils vinegars,7,0,26679,Organic Unrefined-Unfiltered Extra Virgin Olive Oil
+39,19,oils vinegars,7,1,31391,Gourmet Delicate Avocado Oil
+39,19,oils vinegars,7,2,36443,Pure Canola Oil
+39,19,oils vinegars,7,3,13525,Balsamic Vinegar
+39,19,oils vinegars,7,4,4544,High Heat Canola Spray Oil
+40,54,paper goods,0,0,2536,Ultra Plush 3 ply Toilet Paper 12 Double Rolls
+40,54,paper goods,0,1,21050,"Bathroom Tissue, 1‑Ply, 1000 Sheet Rolls"
+40,54,paper goods,0,2,48226,Select-A-Size White Giant Roll Paper Towels
+40,54,paper goods,0,3,30638,White Paper Towels
+40,54,paper goods,0,4,18988,Ultra Soft & Strong® Toilet Paper Double Rolls
+40,54,paper goods,1,0,10255,Clean Care Mega Rolls Toilet Paper
+40,54,paper goods,1,1,17747,Plastic Wrap
+40,54,paper goods,1,2,12212,Unscented 1000 Sheets Per Roll Bathroom Tissue
+40,54,paper goods,1,3,29628,Ultra Strong Toilet Paper Double Rolls Bathroom Tissue
+40,54,paper goods,1,4,38371,Plus Lotion Facial Tissues
+40,54,paper goods,2,0,32650,White Giant Paper Towel Rolls
+40,54,paper goods,2,1,30290,100% Recycled Bath Tissue Rolls
+40,54,paper goods,2,2,1217,"Select-A-Size Paper Towels, White, 2 Huge Rolls = 5 Regular Rolls  Towels/Napkins"
+40,54,paper goods,2,3,48370,Sensitive Toilet Paper
+40,54,paper goods,2,4,34658,100% Recycled 2 Ply Jumbo Paper Towel Roll
+40,54,paper goods,3,0,8021,100% Recycled Paper Towels
+40,54,paper goods,3,1,2086,Sustainably Soft Bath Tissue
+40,54,paper goods,3,2,8230,100% Recycled Bathroom Tissue
+40,54,paper goods,3,3,19488,Select-A-Size White Paper Towels
+40,54,paper goods,3,4,42240,Ultra Soft Facial Tissues
+40,54,paper goods,4,0,35986,2-Ply 100% Recycled Bathroom Tissue
+40,54,paper goods,4,1,48642,2-Ply Right Size 100% Recycled Paper Towels
+40,54,paper goods,4,2,45622,"Paper Towels Choose-A-Sheet, Mega Rolls, One-Ply"
+40,54,paper goods,4,3,29801,100% Recycled White Paper Towels
+40,54,paper goods,4,4,37229,"Bathroom Tissue Softness & Strength, Double Rolls"
+40,54,paper goods,5,0,8195,Paper Towels
+40,54,paper goods,5,1,29345,Choose-A-Sheet Regular Roll Paper Towels
+40,54,paper goods,5,2,38511,1 Ply Paper Towels
+40,54,paper goods,5,3,17858,Everyday 2 Ply Premium Napkins
+40,54,paper goods,5,4,27903,CleanCare 1-Ply Double Rolls Toilet Paper
+40,54,paper goods,6,0,45698,One Ply Choose A Size Big Roll Paper Towel Rolls
+40,54,paper goods,6,1,34254,White Facial Tissues
+40,54,paper goods,6,2,23410,Bathroom Tissue Double Rolls
+40,54,paper goods,6,3,37606,White Quilted Napkins
+40,54,paper goods,6,4,20693,100% Recycled Facial Tissue
+40,54,paper goods,7,0,45004,White Multifold Towels
+40,54,paper goods,7,1,25844,Double Rolls Bath Tissue
+40,54,paper goods,7,2,4374,Ultra Soft Bathroom Tissue Double Rolls
+40,54,paper goods,7,3,21372,Lotion With Aloe & E Upright Facial Tissue
+40,54,paper goods,7,4,35731,Cool Touch Coconut Oil & Aloe Facial Tissues
+41,61,cookies cakes,0,0,9177,"Friends Honey, Chocolate & Chocolate Chip Bunny Grahams Whole Grain Snacks"
+41,61,cookies cakes,0,1,28371,Graham Crackers
+41,61,cookies cakes,0,2,1,Chocolate Sandwich Cookies
+41,61,cookies cakes,0,3,43087,Crackers Bunny Graham Friends Snack Packs
+41,61,cookies cakes,0,4,38264,Chocolate Macaroons
+41,61,cookies cakes,1,0,1935,Whole Wheat Cookies Dark Chocolate
+41,61,cookies cakes,1,1,44961,Ginger Snap Cookies
+41,61,cookies cakes,1,2,44278,Double Chocolate Chip Cookies
+41,61,cookies cakes,1,3,10333,Rice Krispies Treats Original Crispy Marshmallow Squares
+41,61,cookies cakes,1,4,36307,Milano Double Chocolate Cookies
+41,61,cookies cakes,2,0,45374,Newman O's Creme Filled Chocolate Cookies
+41,61,cookies cakes,2,1,42193,Chocolate Chip Cookie
+41,61,cookies cakes,2,2,26634,"Cookies, Chocolate Chip Walnut"
+41,61,cookies cakes,2,3,9438,Honey Graham Sticks
+41,61,cookies cakes,2,4,42139,Fudge Mint Cookies
+41,61,cookies cakes,3,0,40199,Chocolate Chip Cookies
+41,61,cookies cakes,3,1,40063,Gluten Free Chocolate Chip Cookies
+41,61,cookies cakes,3,2,45866,Fig Newmans Fruit Filled Cookies
+41,61,cookies cakes,3,3,12481,Oreo Chocolate Sandwich Cookies
+41,61,cookies cakes,3,4,22362,Original Rice Krispies Treats
+41,61,cookies cakes,4,0,11281,Double Stuf Oreo Sandwich Cookies
+41,61,cookies cakes,4,1,41793,Mini Chocolate Chunk Cookies
+41,61,cookies cakes,4,2,49054,Original Chocolate Chip Cookies
+41,61,cookies cakes,4,3,8898,Little Bites Chocolate Chip Muffins
+41,61,cookies cakes,4,4,14867,Honey Bunny Grahams
+41,61,cookies cakes,5,0,6317,Vanilla Sandwich Creme Cookies
+41,61,cookies cakes,5,1,23192,Chocolate Whole Grain Graham Snacks Bunny Grahams
+41,61,cookies cakes,5,2,31847,Pure Butter Shortbread
+41,61,cookies cakes,5,3,18150,Oatmeal Raisin Cookies
+41,61,cookies cakes,5,4,35430,Nilla Wafers
+41,61,cookies cakes,6,0,34386,Milano Mint Cookies
+41,61,cookies cakes,6,1,21999,Gluten Free Chocolate Coated Wafers
+41,61,cookies cakes,6,2,3283,Peanut Butter Creme Cookies
+41,61,cookies cakes,6,3,35815,Dairy Free Gluten Free Chocolate Almond Butter Miracle Tart
+41,61,cookies cakes,6,4,23085,Montauk Soft Baked Milk Chocolate Cookies
+41,61,cookies cakes,7,0,35682,Biscoff Cookie
+41,61,cookies cakes,7,1,449,Chips Ahoy! Chewy Cookies
+41,61,cookies cakes,7,2,2809,Vegan Oatmeal Chocolate Chip Cookies
+41,61,cookies cakes,7,3,45356,Gluten Free Dream Cookies Chocolate Vanilla Creme
+41,61,cookies cakes,7,4,26168,Newman O's Creme Filled Mint Chocolate Cookies
+42,52,frozen breakfast,0,0,19448,Organic Gluten Free & Wheat Free Pumpkin Spice Waffles
+42,52,frozen breakfast,0,1,25830,Eggo Blueberry Waffles
+42,52,frozen breakfast,0,2,35715,"Whole Grain Organic Waffles, Totally Original"
+42,52,frozen breakfast,0,3,24195,Tofu Scramble
+42,52,frozen breakfast,0,4,22228,Buttermilk Pancakes 8 Count
+42,52,frozen breakfast,1,0,6052,Eggo Chocolate Chip Waffles
+42,52,frozen breakfast,1,1,11945,Organic Gluten & Wheat Free Homestyle Waffles
+42,52,frozen breakfast,1,2,42404,Multi Grain Waffles
+42,52,frozen breakfast,1,3,35762,Eggo Cinnamon Toast Waffles
+42,52,frozen breakfast,1,4,31960,Eggo Pancakes Minis
+42,52,frozen breakfast,2,0,9515,Natural Classic Pork Breakfast Sausage
+42,52,frozen breakfast,2,1,311,Naturals Savory Turkey Breakfast Sausage
+42,52,frozen breakfast,2,2,17807,Gluten Free Blueberry Waffles
+42,52,frozen breakfast,2,3,24010,Wheat Gluten Free Waffles
+42,52,frozen breakfast,2,4,9595,Organic Homestyle Mini Waffles
+42,52,frozen breakfast,3,0,37158,Chicken & Maple Breakfast Sausage
+42,52,frozen breakfast,3,1,9825,Organic Multigrain Waffles
+42,52,frozen breakfast,3,2,30696,Eggo Homestyle Waffles
+42,52,frozen breakfast,3,3,25753,Organic Homestyle Waffles
+42,52,frozen breakfast,3,4,2326,Organic Blueberry Waffles
+42,52,frozen breakfast,4,0,20327,Organic All Natural Blueberry Mini Waffles
+42,52,frozen breakfast,4,1,162,Organic Mini Homestyle Waffles
+42,52,frozen breakfast,4,2,20113,Organic Gluten Free Buckwheat Wildberry Waffles
+42,52,frozen breakfast,4,3,28226,Power Grains Waffles 6 ct
+42,52,frozen breakfast,4,4,41842,Organic Gluten Free Chia Plus with Quinoa & Amaranth Waffles
+42,52,frozen breakfast,5,0,47616,Sesame Street Organic Mini Blueberry Pancakes
+42,52,frozen breakfast,5,1,4600,All Natural French Toast Sticks
+42,52,frozen breakfast,5,2,14493,Whole Wheat Eggo Waffles
+42,52,frozen breakfast,5,3,13560,A+ Cinnamon Sweet Potato Pancakes
+42,52,frozen breakfast,5,4,36393,Eggo Buttermilk Waffles
+42,52,frozen breakfast,6,0,22908,Sesame Street Organic Homestyle Mini Pancakes
+42,52,frozen breakfast,6,1,2240,Eggo Nutri-Grain Blueberry Waffles
+42,52,frozen breakfast,6,2,29142,Natural Chicken & Apple Breakfast Sausage Patty
+42,52,frozen breakfast,6,3,33540,Whole Grain Organic Blueberry Waffles
+42,52,frozen breakfast,6,4,41453,Eggo Buttermilk Pancakes
+42,52,frozen breakfast,7,0,4697,"Eggs, Cheese & Turkey Sausage Breakfast Burrito"
+42,52,frozen breakfast,7,1,14945,Egg & Smoked Gouda Multi-Grain Flatbread Breakfast Sandwich
+42,52,frozen breakfast,7,2,14576,Delights Turkey Sausage Egg Whites & Cheese English Muffin
+42,52,frozen breakfast,7,3,8436,Organic Waffles Flax Plus
+42,52,frozen breakfast,7,4,2275,Chicken Apple Sausage Egg White Breakfast Burrito
+43,72,condiments,0,0,34092,Spicy Brown Mustard
+43,72,condiments,0,1,6177,Dijon Mustard Squeeze Bottle
+43,72,condiments,0,2,21681,Sriracha Sauce
+43,72,condiments,0,3,32638,Red Hot Original Cayenne Pepper Sauce
+43,72,condiments,0,4,46147,Organic Tomato Ketchup
+43,72,condiments,1,0,37642,Ccnut Raw Cocoaminos
+43,72,condiments,1,1,15438,"Mayonnaise, Classic"
+43,72,condiments,1,2,22000,The Original Worcestershire Sauce
+43,72,condiments,1,3,36854,Hot Sauce
+43,72,condiments,1,4,2651,Mayonnaise
+43,72,condiments,2,0,15392,Organic Mayonnaise
+43,72,condiments,2,1,44234,Squeeze Tomato Ketchup
+43,72,condiments,2,2,28785,Organic Tahini
+43,72,condiments,2,3,14332,Organic Yellow Mustard
+43,72,condiments,2,4,19468,Classic Yellow Mustard
+43,72,condiments,3,0,18441,Organic Ketchup
+43,72,condiments,3,1,7751,Tomato Ketchup
+43,72,condiments,3,2,35898,Original Hot Sauce
+43,72,condiments,3,3,44628,Organic Dijon Mustard
+43,72,condiments,3,4,27796,Real Mayonnaise
+43,72,condiments,4,0,32299,Dijon Mustard
+43,72,condiments,4,1,37053,Just Mayo
+43,72,condiments,4,2,43262,Original Sauce
+43,72,condiments,4,3,44014,Authentic Red Curry Paste
+43,72,condiments,4,4,7632,Old Style Whole Grain Dijon Mustard
+43,72,condiments,5,0,810,Organic Honey Mustard
+43,72,condiments,5,1,10060,Original BBQ Sauce
+43,72,condiments,5,2,3869,Organic Sweet Relish
+43,72,condiments,5,3,47479,Squeeze Real Mayonnaise
+43,72,condiments,5,4,15097,Light Mayonnaise
+43,72,condiments,6,0,16174,Original Vegenaise Dressing & Sandwich Spread
+43,72,condiments,6,1,6972,Mayo Made With Avocado Oil
+43,72,condiments,6,2,39799,Classic Ketchup
+43,72,condiments,6,3,17025,Country Dijon Mustard
+43,72,condiments,6,4,24955,Simply Heinz Tomato Ketchup
+43,72,condiments,7,0,28527,White Horseradish
+43,72,condiments,7,1,21996,Prepared White Horseradish
+43,72,condiments,7,2,39375,Mirin Rice Cooking Wine
+43,72,condiments,7,3,12000,Baked Organic Sea Salt Crunchy Pea Snack
+43,72,condiments,7,4,742,Organic Raw Coconut Aminos
+44,9,pasta sauce,0,0,39351,Made with Extra Virgin Olive Oil Pesto sauce with Basil
+44,9,pasta sauce,0,1,20042,Homemade Pizza Sauce
+44,9,pasta sauce,0,2,46665,Pesto Alla Genovese Basil
+44,9,pasta sauce,0,3,5649,La Vodka Cooking Sauce
+44,9,pasta sauce,0,4,31467,Sockarooni Spaghetti Sauce
+44,9,pasta sauce,1,0,34034,Roasted Garlic Pasta Sauce
+44,9,pasta sauce,1,1,43568,Traditional Italian Sauce
+44,9,pasta sauce,1,2,4066,Organic Red Heirloom Pasta Sauce
+44,9,pasta sauce,1,3,44170,Tomato Basil Sauce
+44,9,pasta sauce,1,4,7835,Tomato Basil Cooking Sauce
+44,9,pasta sauce,2,0,14852,All Natural Marinara Sauce
+44,9,pasta sauce,2,1,19478,Organic Marinara Pasta Sauce
+44,9,pasta sauce,2,2,31927,Four Cheese Pasta Sauce
+44,9,pasta sauce,2,3,26751,Organic Tomato Basil Sauce
+44,9,pasta sauce,2,4,38288,Pizza Sauce
+44,9,pasta sauce,3,0,23375,Marinara Sauce
+44,9,pasta sauce,3,1,39619,Organic Tomato Basil Pasta Sauce
+44,9,pasta sauce,3,2,12206,Basil Pesto
+44,9,pasta sauce,3,3,14197,Tomato Paste
+44,9,pasta sauce,3,4,38273,Marinara Pasta Sauce
+44,9,pasta sauce,4,0,210,Homemade Hot Arrabbiata Fra Diavolo Sauce
+44,9,pasta sauce,4,1,21955,All Natural Marinara Pasta Sauce
+44,9,pasta sauce,4,2,8204,Traditional Favorites Tomato & Basil Pasta Sauce
+44,9,pasta sauce,4,3,12320,Organic Italian Herb Pasta Sauce
+44,9,pasta sauce,4,4,2537,Tomato Basil Marinara Sauce
+44,9,pasta sauce,5,0,10518,Traditional Basil Pesto Sauce
+44,9,pasta sauce,5,1,30599,Homemade Vodka Sauce
+44,9,pasta sauce,5,2,34496,Alfredo Pasta Sauce
+44,9,pasta sauce,5,3,9648,Tomato and Basil Bombolina Pasta Sauce
+44,9,pasta sauce,5,4,7762,Vodka Pasta Sauce
+44,9,pasta sauce,6,0,5923,Traditional Favorites Four Cheese Pasta Sauce
+44,9,pasta sauce,6,1,19535,Signature Recipes Creamy Alfredo Pasta Sauce
+44,9,pasta sauce,6,2,48341,Tomato Basil Pasta Sauce
+44,9,pasta sauce,6,3,24946,Garlic Marinara Cooking Sauce
+44,9,pasta sauce,6,4,32387,Roasted Garlic & Sweet Basil Sauce
+44,9,pasta sauce,7,0,24571,Tomato and Basil Pasta Sauce
+44,9,pasta sauce,7,1,6985,Alfredo Sauce
+44,9,pasta sauce,7,2,8088,Organico Bello Tomato Basil Pasta Sauce
+44,9,pasta sauce,7,3,29327,Tomato Basil Garlic Italian Sauce
+44,9,pasta sauce,7,4,12339,Traditional Pasta Sauce
+45,104,spices seasonings,0,0,31130,Sea Salt Flakes Original
+45,104,spices seasonings,0,1,39374,Sea Salt
+45,104,spices seasonings,0,2,19519,Organic Bay Leaves
+45,104,spices seasonings,0,3,47500,Coarse Sea Salt
+45,104,spices seasonings,0,4,41006,Organic Onion Powder
+45,104,spices seasonings,1,0,14429,Organic Ground Black Pepper
+45,104,spices seasonings,1,1,1359,Organic Turmeric
+45,104,spices seasonings,1,2,36736,Iodized Salt
+45,104,spices seasonings,1,3,47547,Cinnamon
+45,104,spices seasonings,1,4,7704,Liquid Aminos All Purpose Seasoning
+45,104,spices seasonings,2,0,13212,Ground Black Pepper
+45,104,spices seasonings,2,1,40136,Original Taco Seasoning Mix
+45,104,spices seasonings,2,2,10960,Nutritional Yeast Seasoning
+45,104,spices seasonings,2,3,8988,Organic Garlic Powder
+45,104,spices seasonings,2,4,45664,Onion Powder
+45,104,spices seasonings,3,0,9327,Garlic Powder
+45,104,spices seasonings,3,1,7746,Oregano
+45,104,spices seasonings,3,2,5621,Sea Salt Fine Crystals
+45,104,spices seasonings,3,3,37107,Ground Cumin
+45,104,spices seasonings,3,4,46962,Organic Ground Cumin
+45,104,spices seasonings,4,0,35725,Organic Oregano
+45,104,spices seasonings,4,1,33884,Bay Leaves
+45,104,spices seasonings,4,2,35973,Paprika
+45,104,spices seasonings,4,3,481,Black Peppercorns
+45,104,spices seasonings,4,4,48437,Coarse Kosher Salt
+45,104,spices seasonings,5,0,22034,Rosemary
+45,104,spices seasonings,5,1,43371,Crushed Red Pepper
+45,104,spices seasonings,5,2,45608,Kosher Salt
+45,104,spices seasonings,5,3,47226,Taco Seasoning Mix Original
+45,104,spices seasonings,5,4,11755,Chili Powder
+45,104,spices seasonings,6,0,5605,Sesame Seed
+45,104,spices seasonings,6,1,12260,Ground Cinnamon
+45,104,spices seasonings,6,2,34407,Taco Seasoning Mix
+45,104,spices seasonings,6,3,29079,Seasoning Curry Powder
+45,104,spices seasonings,6,4,29740,Organic Chili Powder Blend
+45,104,spices seasonings,7,0,16325,Turmeric
+45,104,spices seasonings,7,1,8203,Ground Ginger
+45,104,spices seasonings,7,2,2380,Cayenne Pepper
+45,104,spices seasonings,7,3,13231,Organic Cayenne Pepper
+45,104,spices seasonings,7,4,6020,Organic Crushed Red Pepper
+46,26,coffee,0,0,16908,Jacob's Wonderbar Dark Roast
+46,26,coffee,0,1,32227,House Blend Whole Bean Coffee
+46,26,coffee,0,2,11598,Direct Trade Organic El Gallo Breakfast Blend Whole Bean Coffee
+46,26,coffee,0,3,34063,Medium Roast Original Blend Ground Coffee
+46,26,coffee,0,4,9739,Freeze Dried Instant Coffee
+46,26,coffee,1,0,40742,French Roast Whole Bean Coffee
+46,26,coffee,1,1,1891,Instant Coffee
+46,26,coffee,1,2,30774,Organic French Roast Ground Coffee
+46,26,coffee,1,3,25305,Cold Brew Coffee Nitro Can
+46,26,coffee,1,4,17638,Vanilla Coffee Concentrate
+46,26,coffee,2,0,5794,House Blend Deep Roast Ground Coffee
+46,26,coffee,2,1,9411,Unsweetened Iced Coffee
+46,26,coffee,2,2,49192,Holler Mountain Organic Coffee
+46,26,coffee,2,3,14127,Tesora Medium Roast
+46,26,coffee,2,4,40386,Major Dickason's Blend Whole Bean Coffee
+46,26,coffee,3,0,25718,Cold Brew Coffee
+46,26,coffee,3,1,7521,New Orleans Iced Coffee
+46,26,coffee,3,2,1695,Major Dickason's Blend Ground Coffee Dark Roast
+46,26,coffee,3,3,32740,Cold-Brew Black Coffee
+46,26,coffee,3,4,30850,French Roast Ground Coffee
+46,26,coffee,4,0,14891,Black Coffee
+46,26,coffee,4,1,41774,XX Espresso Iced Coffee With Almond Milk
+46,26,coffee,4,2,8501,Breakfast Blend Medium Keurig Brewed K-Cups Ground Coffee
+46,26,coffee,4,3,15780,Breakfast Blend Medium Roast Ground Coffee
+46,26,coffee,4,4,20392,Hair Bender Whole Bean Coffee
+46,26,coffee,5,0,16714,Mocha Frappucino Chilled Coffee Drink
+46,26,coffee,5,1,17355,Compostable Coffee Filters
+46,26,coffee,5,2,27464,Direct Trade House Blend Medium Roast Ground Coffee
+46,26,coffee,5,3,43744,Medium Roast Ground Coffee
+46,26,coffee,5,4,26738,Original Cold Brew  Coffee With Milk
+46,26,coffee,6,0,3819,Organic Mocha Coffee Concentrate
+46,26,coffee,6,1,14104,Pike Place Roast Medium Keurig Brewed K-Cups
+46,26,coffee,6,2,29616,Direct Trade Black Cat Classic Espresso Roast Whole Bean Coffee
+46,26,coffee,6,3,14421,Espresso Ground Coffee
+46,26,coffee,6,4,28449,"French Roast, Dark Roast K-Cups"
+46,26,coffee,7,0,7139,Sooo Good Light Roast Coffee
+46,26,coffee,7,1,4731,Classic Roast
+46,26,coffee,7,2,40777,Concentrated Cold Brew Coffee
+46,26,coffee,7,3,12667,Ground Espresso Coffee Medium Roast
+46,26,coffee,7,4,4232,"Ambrosia, Medium Roast"
+47,4,instant foods,0,0,26521,Organic Grass-Fed Classic Mild Cheddar Macaroni & Cheese
+47,4,instant foods,0,1,10292,Family Size Shells & White Cheddar Macaroni & Cheese
+47,4,instant foods,0,2,30257,Microwavable Mac & Cheese
+47,4,instant foods,0,3,31596,Rice Express Fresh Steamed Sticky White Rice
+47,4,instant foods,0,4,28380,Organic Grass-Fed Real Aged Cheddar & Macaroni Shells
+47,4,instant foods,1,0,39699,Whole Wheat Shells & White Cheddar Macaroni and Cheese
+47,4,instant foods,1,1,40878,Macaroni And Cheese
+47,4,instant foods,1,2,43249,Organic Bernie's Farm Macaroni & Cheese
+47,4,instant foods,1,3,8013,Cup Noodles Chicken Flavor
+47,4,instant foods,1,4,47570,Original Flavor Macaroni & Cheese Dinner
+47,4,instant foods,2,0,18599,Garlic Couscous
+47,4,instant foods,2,1,18019,Macaroni & Cheese Dinner Original Flavor
+47,4,instant foods,2,2,32360,Creamy Deluxe Shells & Real Aged Cheddar Sauce
+47,4,instant foods,2,3,4163,Spanish Rice Pilaf Mix
+47,4,instant foods,2,4,41238,Parmesan Couscous Mix
+47,4,instant foods,3,0,42110,Organic Macaroni Shells & Real Aged Cheddar
+47,4,instant foods,3,1,36772,Bunny Pasta with Yummy Cheese Macaroni & Cheese
+47,4,instant foods,3,2,35004,Macaroni Shells & White Cheddar Cheese
+47,4,instant foods,3,3,1090,Shells & Real Aged Cheddar Macaroni & Cheese
+47,4,instant foods,3,4,33636,Organic Shells And White Cheddar
+47,4,instant foods,4,0,45679,Gluten Free Cheddar Macaroni & Cheese Rice Pasta
+47,4,instant foods,4,1,27423,Real Aged Cheddar Macaroni & Cheese
+47,4,instant foods,4,2,18337,Classic Mild Cheddar Macaroni & Cheese
+47,4,instant foods,4,3,38533,Creamy Deluxe Macaroni Dinner Elbows & Four Cheese Sauce
+47,4,instant foods,4,4,12087,Chicken Flavor Ramen Noodle Soup
+47,4,instant foods,5,0,37849,Velveeta Shells & Cheese Pasta
+47,4,instant foods,5,1,26133,Classic Macaroni & Mild Cheddar Cheese
+47,4,instant foods,5,2,32035,Toasted Pine Nut Couscous Mix
+47,4,instant foods,5,3,33206,Pearled Couscous Original Plain
+47,4,instant foods,5,4,31573,Whole Grain Brown Ready Rice
+47,4,instant foods,6,0,6680,Potato Gnocchi
+47,4,instant foods,6,1,30620,Roasted Garlic & Olive Oil Pearled Couscous
+47,4,instant foods,6,2,7241,Vegan Cheddar Mac & Cheese
+47,4,instant foods,6,3,31970,Organic Basmati Rice
+47,4,instant foods,6,4,43483,Souper 6-Pack Chicken Flavor Ramen Noodle Soup
+47,4,instant foods,7,0,34013,Microwaveable Whole Grain Brown Rice 2 ct
+47,4,instant foods,7,1,23313,Mac & Cheese
+47,4,instant foods,7,2,17555,Creamy Parmesan Risotto
+47,4,instant foods,7,3,25825,Original Long Grain Rice
+47,4,instant foods,7,4,38205,Cheddar Cheezy Mac
+48,129,frozen appetizers sides,0,0,32950,"Breaded Chicken Breast Nuggets, Gluten Free"
+48,129,frozen appetizers sides,0,1,40490,Frozen Breaded Bagged Chicken Nuggets
+48,129,frozen appetizers sides,0,2,36664,Baked Soft Pretzels
+48,129,frozen appetizers sides,0,3,22736,Sweet Potato Fries with Salt
+48,129,frozen appetizers sides,0,4,31701,Potato Puffs with Roasted Garlic and Cracked Black Pepper
+48,129,frozen appetizers sides,1,0,48144,Tater Tots
+48,129,frozen appetizers sides,1,1,28733,Chicken Nuggets
+48,129,frozen appetizers sides,1,2,42205,Organic Sweet Potato Fries
+48,129,frozen appetizers sides,1,3,27573,Sweet Potato Littles
+48,129,frozen appetizers sides,1,4,21850,Waffle Cut Sweet Potato Seasoned Fries
+48,129,frozen appetizers sides,2,0,1215,Kidz All Natural Baked Chicken Nuggets
+48,129,frozen appetizers sides,2,1,46346,Sweet Potato Fries with Sea Salt
+48,129,frozen appetizers sides,2,2,27509,Organic Seasoned Yukon Select Potatoes Hashed Browns
+48,129,frozen appetizers sides,2,3,48720,Shoestring Fries
+48,129,frozen appetizers sides,2,4,14881,Organic Yukon Select Fries
+48,129,frozen appetizers sides,3,0,2452,Naturals Chicken Nuggets
+48,129,frozen appetizers sides,3,1,17652,Air Chilled Breaded Chicken Breast Nuggets
+48,129,frozen appetizers sides,3,2,11440,Chicken Breast Tenders Breaded
+48,129,frozen appetizers sides,3,3,31766,Cheese Pizza Snacks
+48,129,frozen appetizers sides,3,4,48171,Shredded Hash Browns
+48,129,frozen appetizers sides,4,0,26201,Chicken Taquitos
+48,129,frozen appetizers sides,4,1,22451,Crinkle Cut French Fries
+48,129,frozen appetizers sides,4,2,6343,"Pizza Poppers, Three Cheese"
+48,129,frozen appetizers sides,4,3,27355,All Natural Seasoned Waffle Cut Fries
+48,129,frozen appetizers sides,4,4,3962,Tater Puffs
+48,129,frozen appetizers sides,5,0,48440,Pepperoni Pizza Rolls
+48,129,frozen appetizers sides,5,1,19625,Organic Chicken & Vegetable Potstickers
+48,129,frozen appetizers sides,5,2,21775,Brazilian Cheese Bread Original Cheddar and Parmesan
+48,129,frozen appetizers sides,5,3,30839,Homestyle Breaded Chicken Breast Tenders
+48,129,frozen appetizers sides,5,4,13851,Organic Classic Sea Salt  Oven Crinkles Fries
+48,129,frozen appetizers sides,6,0,25762,Spinach Pizza Snacks
+48,129,frozen appetizers sides,6,1,28824,Onion Rings
+48,129,frozen appetizers sides,6,2,4429,Gluten Free Chicken Dumplings
+48,129,frozen appetizers sides,6,3,7274,Cheese & Pepperoni Mini Bagels
+48,129,frozen appetizers sides,6,4,2081,Crispy Seasoned Potato Puffs with Roasted Garlic & Cracked Pepper
+48,129,frozen appetizers sides,7,0,32428,Golden Crinkles French Fried Potatoes
+48,129,frozen appetizers sides,7,1,5268,Bagel Bites Three Cheese Mini Bagel Pizzas
+48,129,frozen appetizers sides,7,2,4635,Microwaveable 100% Beef Cheeseburgers
+48,129,frozen appetizers sides,7,3,11891,Kidz Baked Chicken Nuggets
+48,129,frozen appetizers sides,7,4,34927,Beef Taquitos
+49,128,tortillas flat bread,0,0,37354,Flour Tortillas Soft Taco
+49,128,tortillas flat bread,0,1,19311,Almond Flour Tortillas
+49,128,tortillas flat bread,0,2,17985,Uncooked Medium Flour Tortillas
+49,128,tortillas flat bread,0,3,25686,Super Soft Flour Tortillas Fajita Size 20 ct
+49,128,tortillas flat bread,0,4,29506,Pita Bread
+49,128,tortillas flat bread,1,0,24160,Organic Whole Wheat Tortillas
+49,128,tortillas flat bread,1,1,48183,Flour Tortillas
+49,128,tortillas flat bread,1,2,37335,Thin Whole Wheat Sandwich Buns
+49,128,tortillas flat bread,1,3,36256,Yellow Soft Corn Tortillas 8 Count
+49,128,tortillas flat bread,1,4,33614,Carb Balance Flour Tortillas
+49,128,tortillas flat bread,2,0,11941,"Tortillas, Corn, Organic"
+49,128,tortillas flat bread,2,1,35168,Ezekiel 4:9 Sprouted Grain Tortillas
+49,128,tortillas flat bread,2,2,38827,Organic Traditional Flour Tortillas
+49,128,tortillas flat bread,2,3,21841,"Tortillas, Brown Rice"
+49,128,tortillas flat bread,2,4,22115,Sonoma Handmade Style Corn Tortillas
+49,128,tortillas flat bread,3,0,19508,Corn Tortillas
+49,128,tortillas flat bread,3,1,19816,Sonoma Traditional Flour Tortillas 10 Count
+49,128,tortillas flat bread,3,2,29553,Super Soft Taco Flour Tortillas
+49,128,tortillas flat bread,3,3,11461,White Corn Tortillas
+49,128,tortillas flat bread,3,4,40348,Large Burrito Flour Tortillas
+49,128,tortillas flat bread,4,0,26315,Organic White Corn & Wheat Tortillas
+49,128,tortillas flat bread,4,1,7649,Whole Wheat Tandoori Naan
+49,128,tortillas flat bread,4,2,48230,Soft Taco Size White Flour Tortillas
+49,128,tortillas flat bread,4,3,3880,Corn Maize Tortillas
+49,128,tortillas flat bread,4,4,33294,"Tortillas, Wheat Free, Sprouted Corn"
+49,128,tortillas flat bread,5,0,21038,Organic Spelt Tortillas
+49,128,tortillas flat bread,5,1,9058,Gluten Free Pizza Crust
+49,128,tortillas flat bread,5,2,10998,Yellow Corn Organic Tortillas
+49,128,tortillas flat bread,5,3,36591,100% Whole Wheat Medium Soft Taco Flour Tortillas
+49,128,tortillas flat bread,5,4,30382,Organic Flour Tortillas
+49,128,tortillas flat bread,6,0,14486,One Bun Multigrain Whole Grain Pita
+49,128,tortillas flat bread,6,1,33468,White Pita
+49,128,tortillas flat bread,6,2,38734,Wheat Sandwich Thins
+49,128,tortillas flat bread,6,3,12597,Organic Bakery Tortillas Whole Spelt
+49,128,tortillas flat bread,6,4,21791,Mini Whole Wheat Pita Bread
+49,128,tortillas flat bread,7,0,31378,"Traditional Size Corn Tortillas, 6\"""
+49,128,tortillas flat bread,7,1,40334,Organic White Pita Bread
+49,128,tortillas flat bread,7,2,20788,Olive Oil & Sel Gris Sourdough Flatbread
+49,128,tortillas flat bread,7,3,25584,Yellow Corn Tortillas
+49,128,tortillas flat bread,7,4,31789,Garden Spinach Herb 6 Ct Wraps
+50,50,fruit vegetable snacks,0,0,13951,Mixed Fruit Snacks
+50,50,fruit vegetable snacks,0,1,13776,Summer Strawberry Fruit Strip
+50,50,fruit vegetable snacks,0,2,25020,Organic Banana Chips
+50,50,fruit vegetable snacks,0,3,2130,Wasabi Peas
+50,50,fruit vegetable snacks,0,4,20564,Organic Chewy Peanut Butter Banana Bites
+50,50,fruit vegetable snacks,1,0,44786,Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit
+50,50,fruit vegetable snacks,1,1,939,Annie's Bunny Fruit Snacks Variety
+50,50,fruit vegetable snacks,1,2,30633,Veggie Cheese & Pretzel Snack Pac Prepacked
+50,50,fruit vegetable snacks,1,3,26911,Kale Krunch The Original Quite Cheezy
+50,50,fruit vegetable snacks,1,4,21873,Fruit Snacks
+50,50,fruit vegetable snacks,2,0,42803,Organic Apple Slices
+50,50,fruit vegetable snacks,2,1,38313,Organic Apple Banana GoGo Squeez
+50,50,fruit vegetable snacks,2,2,32293,Organic Bunny Fruit Tropical Treat Fruit Snacks
+50,50,fruit vegetable snacks,2,3,41177,Sea Salt Roasted Seaweed
+50,50,fruit vegetable snacks,2,4,18618,Baked Caesar Snapea Crisps
+50,50,fruit vegetable snacks,3,0,34448,Original Veggie Straws
+50,50,fruit vegetable snacks,3,1,5194,Organic Bunny Fruit Snacks Berry Patch
+50,50,fruit vegetable snacks,3,2,13740,Organic Summer Strawberry Bunny Fruit Snacks
+50,50,fruit vegetable snacks,3,3,26348,Mixed Fruit Fruit Snacks
+50,50,fruit vegetable snacks,3,4,27690,Apple Cinnamon GoGo Squeez
+50,50,fruit vegetable snacks,4,0,40469,Strawberry Flavored Organic Z Fruit Rope
+50,50,fruit vegetable snacks,4,1,20169,Annie Peely Fruit 4.5 Z
+50,50,fruit vegetable snacks,4,2,23047,Sesame Roasted Seaweed Snacks
+50,50,fruit vegetable snacks,4,3,23265,Chives
+50,50,fruit vegetable snacks,4,4,6568,Snacks Mango
+50,50,fruit vegetable snacks,5,0,46916,Organic Really Peely Bendy Berry Fruit Tape
+50,50,fruit vegetable snacks,5,1,2708,Fruit By the Foot Variety Pack
+50,50,fruit vegetable snacks,5,2,16350,Variety Snack Pack
+50,50,fruit vegetable snacks,5,3,4447,Berries 'n Cherries Fruit Snacks
+50,50,fruit vegetable snacks,5,4,15567,Crunchy Chickpeas Falafel
+50,50,fruit vegetable snacks,6,0,29285,"Organic Bernie's Farm Fruit Snacks strawberry, raspberry, & orange"
+50,50,fruit vegetable snacks,6,1,34578,Chomperz Original Crunchy Seaweed Chips
+50,50,fruit vegetable snacks,6,2,30571,Bare Fruit Banana Chips
+50,50,fruit vegetable snacks,6,3,45970,Organic Black Beans Ready To Eat In Pouch
+50,50,fruit vegetable snacks,6,4,19871,Fruit Roll Ups Variety Fruit Flavored Snacks
+50,50,fruit vegetable snacks,7,0,46902,Organic Kale Krunch Superfood
+50,50,fruit vegetable snacks,7,1,17459,Roasted Seaweed Snack
+50,50,fruit vegetable snacks,7,2,39509,Organic Sunny Citrus Bunny Fruit Snacks
+50,50,fruit vegetable snacks,7,3,24706,Organic Apple Sauce + Fruit & Veggie Carroty Chop Mashups
+50,50,fruit vegetable snacks,7,4,32701,Roasted Seaweed Snacks Wasabi
+51,66,asian foods,0,0,1787,Thin Rice Noodles
+51,66,asian foods,0,1,34940,Chicken Flavor Top Ramen Noodles
+51,66,asian foods,0,2,1979,Pure Coconut Milk
+51,66,asian foods,0,3,49128,Organic Tamari Gluten-Free Soy Sauce
+51,66,asian foods,0,4,49488,Jasmine Green Iced Tea
+51,66,asian foods,1,0,23001,Genuine Brewed Rice Vinegar
+51,66,asian foods,1,1,15899,Organic Reduced Sodium Tamari
+51,66,asian foods,1,2,48204,Tamari Gluten Free Soy Sauce
+51,66,asian foods,1,3,17619,Premium Fish Sauce
+51,66,asian foods,1,4,12145,Tofu Miso Ramen
+51,66,asian foods,2,0,5547,Roasted Sesame Seaweed Snacks
+51,66,asian foods,2,1,47008,Sliced Water Chestnuts
+51,66,asian foods,2,2,95,Organic Rice Vinegar
+51,66,asian foods,2,3,21724,Stir-fry Rice Noodles
+51,66,asian foods,2,4,25170,Soy Sauce
+51,66,asian foods,3,0,36724,Organic Sea Salt Roasted Seaweed Snacks
+51,66,asian foods,3,1,22220,Original Roasted Seaweed Snacks
+51,66,asian foods,3,2,23032,Sriracha Chili Sauce
+51,66,asian foods,3,3,10492,Coconut Milk
+51,66,asian foods,3,4,22275,Sriracha Hot Chili Sauce
+51,66,asian foods,4,0,21413,Organic Soba
+51,66,asian foods,4,1,4966,37% Less Sodium Soy Sauce
+51,66,asian foods,4,2,27363,Green Curry Paste
+51,66,asian foods,4,3,43406,Roasted Seaweed Snacks
+51,66,asian foods,4,4,12157,Tamari Gluten Free Soy Sauce Reduced Sodium
+51,66,asian foods,5,0,34190,Organic Coconut Cream
+51,66,asian foods,5,1,17038,Wasabi Roasted Seaweed Snacks
+51,66,asian foods,5,2,13457,Pad Thai Brown Rice Noodles
+51,66,asian foods,5,3,5303,Organic Roasted Seaweed Snacks Teriyaki
+51,66,asian foods,5,4,10565,Mellow White Miso
+51,66,asian foods,6,0,7562,Asian Vegetable Ramen
+51,66,asian foods,6,1,36438,Organic Premium Roasted Seaweed Snack
+51,66,asian foods,6,2,48309,Kelp Noodles
+51,66,asian foods,6,3,2573,Garlic Pepper Ramen
+51,66,asian foods,6,4,24492,All Natural Won Ton Wraps
+51,66,asian foods,7,0,27055,Mushroom Ramen
+51,66,asian foods,7,1,29256,Organic Udon Japanese Wheat Noodles
+51,66,asian foods,7,2,2658,Unsweetened Coconut Milk
+51,66,asian foods,7,3,9996,Less Sodium Soy Sauce
+51,66,asian foods,7,4,13440,Chili Garlic Sauce
+52,79,frozen pizza,0,0,39464,Craveables Pepperoni Pizza
+52,79,frozen pizza,0,1,8251,Roasted Mushroom Pizza
+52,79,frozen pizza,0,2,29315,Signature Pepperoni Crispy Thin Crust Pizza
+52,79,frozen pizza,0,3,45588,Pizzeria Style Classic Crust Pepperoni Pizza
+52,79,frozen pizza,0,4,37733,Uncured Pepperoni Mini Pizza Bagels Frozen Snacks
+52,79,frozen pizza,1,0,5918,Single Serve Cheese Pizza
+52,79,frozen pizza,1,1,28309,Gourmet Pizza Three Cheese Gluten Free
+52,79,frozen pizza,1,2,7493,Mediterranean Thin Crust Pizza
+52,79,frozen pizza,1,3,3358,"Rising Crust Supreme (Sausage, Pepperoni, Red Peppers, Green Peppers, Onions, Black Olives) Frozen Pizza"
+52,79,frozen pizza,1,4,13447,Margherita With Cherry Tomatoes Pizza
+52,79,frozen pizza,2,0,8022,Spinach Pizza
+52,79,frozen pizza,2,1,8012,Pizza 4 Cheese
+52,79,frozen pizza,2,2,26298,Thin Crust Margherita Pizza with Fresh Mozzarella & Basil
+52,79,frozen pizza,2,3,4428,Organic Mushroom & Olive Pizza
+52,79,frozen pizza,2,4,27179,Rising Crust Pepperoni Pizza
+52,79,frozen pizza,3,0,24561,Organic Cheese Frozen Pizza
+52,79,frozen pizza,3,1,20345,Thin Crust Pepperoni Pizza
+52,79,frozen pizza,3,2,9741,Cheese Pizza
+52,79,frozen pizza,3,3,5449,Margherita Pizza
+52,79,frozen pizza,3,4,5959,Four Cheese Thin Crust Pizza
+52,79,frozen pizza,4,0,13031,Pizza Roasted Vegetable No Cheese
+52,79,frozen pizza,4,1,26709,Four Cheese Rising Crust Pizza
+52,79,frozen pizza,4,2,41618,Gluten Free Uncured Frozen Pepperoni Pizza
+52,79,frozen pizza,4,3,49325,Gluten Free Pizza Three Cheese
+52,79,frozen pizza,4,4,34214,Pesto Pizza
+52,79,frozen pizza,5,0,22677,Vegan Margherita Pizza With Daiya Cheeze
+52,79,frozen pizza,5,1,41722,Original Thin Pepperoni Pizza
+52,79,frozen pizza,5,2,4960,Three Cheese Mini Pizza Bagels Frozen Snacks
+52,79,frozen pizza,5,3,14379,BBQ Chicken Crispy Thin Crust Pizza
+52,79,frozen pizza,5,4,21472,Original Pepperoni Pizza
+52,79,frozen pizza,6,0,30320,Craveables Four Cheese Pizza
+52,79,frozen pizza,6,1,16223,Four Cheese Crispy Thin Crust Pizza
+52,79,frozen pizza,6,2,13077,Pepperoni Pizza
+52,79,frozen pizza,6,3,14372,Original 5-Cheese Pizza
+52,79,frozen pizza,6,4,38218,Rising Crust Three Meat Pizza
+52,79,frozen pizza,7,0,34339,"Pizza, Rice Crust, Cheese"
+52,79,frozen pizza,7,1,14726,"Mini 8\"" Italian Pizza Crusts"
+52,79,frozen pizza,7,2,45234,Original Thin Cheese Pizza
+52,79,frozen pizza,7,3,45054,Combination Party Pizza
+52,79,frozen pizza,7,4,35242,Cornmeal Crust 3 Cheese Pizza
+53,23,popcorn jerky,0,0,36913,Uncured Bacon + Cranberry Bison Bar
+53,23,popcorn jerky,0,1,1747,Teriyaki Beef Jerky
+53,23,popcorn jerky,0,2,16556,Popcorn Party Size! White Cheddar Cheese
+53,23,popcorn jerky,0,3,32792,Chipotle Beef & Pork Realstick
+53,23,popcorn jerky,0,4,46656,Butter Microwave Popcorn
+53,23,popcorn jerky,1,0,20600,Sweet & Salty Kettlecorn
+53,23,popcorn jerky,1,1,21230,Organic Himalayan Pink Popcorn
+53,23,popcorn jerky,1,2,14862,Aged White Cheddar Puffs Cheese Snacks
+53,23,popcorn jerky,1,3,93,Uncured Cracked Pepper Beef
+53,23,popcorn jerky,1,4,4938,Steak Strips
+53,23,popcorn jerky,2,0,29370,Organic White Cheddar Popcorn
+53,23,popcorn jerky,2,1,12427,Original Beef Jerky
+53,23,popcorn jerky,2,2,46061,Popcorn
+53,23,popcorn jerky,2,3,6448,Smartfood White Cheddar Cheese Popcorn
+53,23,popcorn jerky,2,4,21083,Corn Puffs with Aged White Cheddar (Lunch Packs)
+53,23,popcorn jerky,3,0,3599,Baked Aged White Cheddar Rice and Corn Puffs
+53,23,popcorn jerky,3,1,15902,100 Calorie  Per Bag Popcorn
+53,23,popcorn jerky,3,2,25513,Boomchickapop Sea Salt Popcorn
+53,23,popcorn jerky,3,3,9755,Original Popcorn
+53,23,popcorn jerky,3,4,1700,White Cheddar Popcorn
+53,23,popcorn jerky,4,0,31487,Boomchickapop Sweet & Salty Kettle Corn
+53,23,popcorn jerky,4,1,21070,Lightly Sweet Popcorn
+53,23,popcorn jerky,4,2,22328,Organic Popcorn
+53,23,popcorn jerky,4,3,26088,Aged White Cheddar Popcorn
+53,23,popcorn jerky,4,4,48034,Peppered Turkey Jerky
+53,23,popcorn jerky,5,0,44172,Movie Theater Butter Microwave Popcorn
+53,23,popcorn jerky,5,1,20039,Sea Salt & Pepper Popcorn
+53,23,popcorn jerky,5,2,46992,Real Cheddar Baked Cheese Puffs
+53,23,popcorn jerky,5,3,36554,Vegan Aged White Cheddar  Popcorn
+53,23,popcorn jerky,5,4,20906,"Rice and Corn Puffs, Baked, Veggie"
+53,23,popcorn jerky,6,0,5708,Original Turkey Jerky
+53,23,popcorn jerky,6,1,42333,White Cheddar Cheese Popcorn
+53,23,popcorn jerky,6,2,34991,Skinny Pack White Cheddar Popcorn
+53,23,popcorn jerky,6,3,24973,Chicago Mix Popcorn
+53,23,popcorn jerky,6,4,16747,Original Movie Theater Popcorn
+53,23,popcorn jerky,7,0,36552,Gourmet Popping Corn Original
+53,23,popcorn jerky,7,1,23088,White Cheddar Jalapeno Gourmet Popcorn
+53,23,popcorn jerky,7,2,25613,Homestyle Popcorn
+53,23,popcorn jerky,7,3,30592,Coconut Oil Popcorn
+53,23,popcorn jerky,7,4,25408,Peppered Beef Jerky
+54,130,hot cereal pancake mixes,0,0,46087,Gluten Free Homestyle Hot Oatmeal
+54,130,hot cereal pancake mixes,0,1,30661,Lower Sugar Maple & Brown Sugar Instant Oatmeal
+54,130,hot cereal pancake mixes,0,2,7930,Apples & Cinnamon Instant Oatmeal
+54,130,hot cereal pancake mixes,0,3,39861,Flax Plus Hot Oatmeal
+54,130,hot cereal pancake mixes,0,4,20460,Organic Quick Cooking Rolled Oats
+54,130,hot cereal pancake mixes,1,0,49241,Organic Original Hot Oatmeal
+54,130,hot cereal pancake mixes,1,1,27681,Lower Sugar Instant Oatmeal  Variety
+54,130,hot cereal pancake mixes,1,2,46812,Natural Buttermilk Pancake & Waffle Mix
+54,130,hot cereal pancake mixes,1,3,38318,Original Flavor Instant Oatmeal
+54,130,hot cereal pancake mixes,1,4,5692,Cinnamon & Spice Instant Oatmeal
+54,130,hot cereal pancake mixes,2,0,45965,Steel Cut Oats
+54,130,hot cereal pancake mixes,2,1,25043,Instant Oatmeal Variety Pack
+54,130,hot cereal pancake mixes,2,2,47966,Old Fashioned Rolled Oats
+54,130,hot cereal pancake mixes,2,3,13755,Instant Oatmeal Maple & Brown Sugar
+54,130,hot cereal pancake mixes,2,4,46847,Quick Cooking Rolled Oats Irish Oatmeal
+54,130,hot cereal pancake mixes,3,0,44422,Organic Old Fashioned Rolled Oats
+54,130,hot cereal pancake mixes,3,1,21543,Organic Quick Oats
+54,130,hot cereal pancake mixes,3,2,49111,Original Instant Oatmeal
+54,130,hot cereal pancake mixes,3,3,37464,Apple Cinnamon Instant Oatmeal
+54,130,hot cereal pancake mixes,3,4,46709,Gluten Free Old Fashioned Rolled Oats
+54,130,hot cereal pancake mixes,4,0,4591,Quick 1 Minute Oatmeal
+54,130,hot cereal pancake mixes,4,1,36848,Gluten Free Quick Cooking Oats
+54,130,hot cereal pancake mixes,4,2,47893,Steel Cut Irish Oatmeal
+54,130,hot cereal pancake mixes,4,3,19767,Old Fashioned Oatmeal
+54,130,hot cereal pancake mixes,4,4,31634,Brown Sugar Maple Oatmeal with Ancient Grains
+54,130,hot cereal pancake mixes,5,0,28911,Buttermilk Complete Pancake & Waffle Mix
+54,130,hot cereal pancake mixes,5,1,31015,Old Country Style Muesli Cereal
+54,130,hot cereal pancake mixes,5,2,48742,Quick 1 Minute Whole Grain Oats
+54,130,hot cereal pancake mixes,5,3,28599,Flavor Variety Instant Oatmeal
+54,130,hot cereal pancake mixes,5,4,25552,Organic Steel Cut Oats
+54,130,hot cereal pancake mixes,6,0,45081,Gluten-Free Pancake Mix
+54,130,hot cereal pancake mixes,6,1,36810,Original Pancake and Baking Mix
+54,130,hot cereal pancake mixes,6,2,17720,Hot Oatmeal Variety Pack
+54,130,hot cereal pancake mixes,6,3,38281,Organic Extra Thick Rolled Oats
+54,130,hot cereal pancake mixes,6,4,25893,Original Pancake & Waffle Mix
+54,130,hot cereal pancake mixes,7,0,8952,Multigrain Pancake & Waffle Mix
+54,130,hot cereal pancake mixes,7,1,40568,Paleo Pancake & Waffle Mix
+54,130,hot cereal pancake mixes,7,2,15591,Gluten Free Steel Cut Oats
+54,130,hot cereal pancake mixes,7,3,2562,Quick & Easy Steel Cut Irish Oatmeal
+54,130,hot cereal pancake mixes,7,4,10498,Pancake & Baking Mix
+55,63,grains rice dried goods,0,0,39462,Long Grain White Rice
+55,63,grains rice dried goods,0,1,30482,Calrose Rice
+55,63,grains rice dried goods,0,2,25489,Gluten Free Inca Red
+55,63,grains rice dried goods,0,3,48357,Green Split Peas
+55,63,grains rice dried goods,0,4,29473,EF Whtie Arborio White Rice
+55,63,grains rice dried goods,1,0,13909,Jasmine Rice
+55,63,grains rice dried goods,1,1,11199,Organic California Sushi Rice
+55,63,grains rice dried goods,1,2,25886,Wild Blend Rice
+55,63,grains rice dried goods,1,3,45656,Whole Grain Brown Rice
+55,63,grains rice dried goods,1,4,15028,"Polenta, Organic, Traditional Italian"
+55,63,grains rice dried goods,2,0,46505,Organic Long Grain Brown Rice
+55,63,grains rice dried goods,2,1,11481,Organic Quinoa & Brown Rice With Garlic
+55,63,grains rice dried goods,2,2,7010,Organic White Basmati Rice
+55,63,grains rice dried goods,2,3,33438,Rosemary & Olive Oil Quinoa Blend
+55,63,grains rice dried goods,2,4,29311,Organic California White Basmati Rice
+55,63,grains rice dried goods,3,0,3142,Organic Short Grain Brown Rice
+55,63,grains rice dried goods,3,1,24009,Organic Long Grain White Rice
+55,63,grains rice dried goods,3,2,48395,Original Rice Pilaf Mix
+55,63,grains rice dried goods,3,3,38650,Organic Red Lentils
+55,63,grains rice dried goods,3,4,25005,Organic Green Lentils
+55,63,grains rice dried goods,4,0,36180,Red Kidney Beans
+55,63,grains rice dried goods,4,1,26242,Organic Black Lentils
+55,63,grains rice dried goods,4,2,41610,Arborio White Rice
+55,63,grains rice dried goods,4,3,39059,Extra Long Grain Enriched Rice
+55,63,grains rice dried goods,4,4,39485,Organic Traditional Gluten Freen Quinoa
+55,63,grains rice dried goods,5,0,44372,Organic California Brown Basmati Rice
+55,63,grains rice dried goods,5,1,42030,Thin Stackers Organic Red Rice & Quinoa Puffed Grain Cakes
+55,63,grains rice dried goods,5,2,20776,Organic Quinoa
+55,63,grains rice dried goods,5,3,12250,EF California White Basmati Eco-Farmed 2 lb Rice
+55,63,grains rice dried goods,5,4,30011,Rishikesh Whole Grain Brown Basmati Organic Rice
+55,63,grains rice dried goods,6,0,49248,Organic Farro
+55,63,grains rice dried goods,6,1,38684,Organic White Chia Seed
+55,63,grains rice dried goods,6,2,41972,California White Jasmine Rice
+55,63,grains rice dried goods,6,3,41480,Lentils
+55,63,grains rice dried goods,6,4,12118,Organic Whole Grain Spanish Rice
+55,63,grains rice dried goods,7,0,29669,Organic Tri-Color Blend Quinoa
+55,63,grains rice dried goods,7,1,49156,Organic Whole Grain Sprouted Quinoa
+55,63,grains rice dried goods,7,2,41751,Long Grain Brown Rice
+55,63,grains rice dried goods,7,3,42145,Organic Seven Whole Grains
+55,63,grains rice dried goods,7,4,48079,Organic Brown Long Grain Rice
+56,14,tofu meat alternatives,0,0,32442,Organic Original Tofu Veggie Burger
+56,14,tofu meat alternatives,0,1,11447,Chorizo Seitan
+56,14,tofu meat alternatives,0,2,33106,Organic Firm Tofu
+56,14,tofu meat alternatives,0,3,10482,Beyond Chicken Lightly Seasoned Strips
+56,14,tofu meat alternatives,0,4,26453,Organic SprouTofu Royal Thai Baked Tofu
+56,14,tofu meat alternatives,1,0,21227,Smart Dogs Veggie Hot Dogs
+56,14,tofu meat alternatives,1,1,48123,Organic Silken Tofu
+56,14,tofu meat alternatives,1,2,27741,Organic Extra Firm Cubed Tofu
+56,14,tofu meat alternatives,1,3,9178,Vegan Hickory & Sage Benevolent Bacon
+56,14,tofu meat alternatives,1,4,47258,Bacon Style Veggie Protein Strips
+56,14,tofu meat alternatives,2,0,2344,Organic SprouTofu Savory Baked Tofu
+56,14,tofu meat alternatives,2,1,16848,Hickory Smoked Ultra Thin Deli Slices
+56,14,tofu meat alternatives,2,2,11629,Classic Meatless Meatballs
+56,14,tofu meat alternatives,2,3,32828,Italian Sausage
+56,14,tofu meat alternatives,2,4,37147,Organic Soy Tempeh
+56,14,tofu meat alternatives,3,0,42585,Organic Extra Firm Tofu
+56,14,tofu meat alternatives,3,1,41588,Firm Tofu
+56,14,tofu meat alternatives,3,2,31342,Organic SprouTofu Extra Firm Tofu
+56,14,tofu meat alternatives,3,3,5764,Organic SprouTofu Teriyaki Tofu Cutlets
+56,14,tofu meat alternatives,3,4,7673,Organic SprouTofu Super Firm Tofu
+56,14,tofu meat alternatives,4,0,5539,Organic SprouTofu Silken Tofu
+56,14,tofu meat alternatives,4,1,27900,Vegan Apple Maple Breakfast Sausage
+56,14,tofu meat alternatives,4,2,49,Vegetarian Grain Meat Sausages Italian - 4 CT
+56,14,tofu meat alternatives,4,3,47059,Original Tofurky Deli Slices
+56,14,tofu meat alternatives,4,4,43760,Fakin' Bacon Organic Smoky Tempeh Strips
+56,14,tofu meat alternatives,5,0,15892,Veggie Dogs
+56,14,tofu meat alternatives,5,1,48925,Peppered Deli Slices
+56,14,tofu meat alternatives,5,2,38249,Frankfurters Vegetarian
+56,14,tofu meat alternatives,5,3,44953,Organic Three Grain Tempeh
+56,14,tofu meat alternatives,5,4,23919,Grain Meat Sausages Vegetarian Mexican Chipotle
+56,14,tofu meat alternatives,6,0,39301,Extra Firm Tofu
+56,14,tofu meat alternatives,6,1,29066,Beyond Chicken Grilled Strips
+56,14,tofu meat alternatives,6,2,15527,Teriyaki Veggie Burgers
+56,14,tofu meat alternatives,6,3,37192,Smart Ground Original Veggie Protein Crumbles
+56,14,tofu meat alternatives,6,4,25194,Ground Sausage Style Veggie Protein
+56,14,tofu meat alternatives,7,0,41212,Flax Milk Dairy Free Protein+ Unsweetened Vanilla
+56,14,tofu meat alternatives,7,1,41541,Traditional Seitan
+56,14,tofu meat alternatives,7,2,28537,Hand-Formed Vegan Burger Patties
+56,14,tofu meat alternatives,7,3,42507,Organic SprouTofu Medium Soft Tofu
+56,14,tofu meat alternatives,7,4,33015,Gluten Free Organic Soyrizo
+57,35,poultry counter,0,0,2005,Fresh Ground Turkey Breast
+57,35,poultry counter,0,1,36157,Turkey Burger
+57,35,poultry counter,0,2,48409,Organic Chicken Wings
+57,35,poultry counter,0,3,38072,Chicken Breast Tenderloins
+57,35,poultry counter,0,4,39315,Natural Chicken Drumsticks
+57,35,poultry counter,1,0,17545,Rotisserie Chicken
+57,35,poultry counter,1,1,4713,Natural Chicken Breast Cutlets
+57,35,poultry counter,1,2,27065,All Natural Chicken Drumsticks
+57,35,poultry counter,1,3,44277,Natural Boneless Skinless Chicken Thighs
+57,35,poultry counter,1,4,23181,Buffalo Chicken Wings
+57,35,poultry counter,2,0,41757,Organic Air Chilled Whole Chicken
+57,35,poultry counter,2,1,19068,Boneless And Skinless Chicken Breast
+57,35,poultry counter,2,2,12732,Organic Ground Turkey
+57,35,poultry counter,2,3,36522,Sweet Italian Chicken Sausage
+57,35,poultry counter,2,4,22713,Ground Chicken Breast
+57,35,poultry counter,3,0,38293,Ground Turkey Breast
+57,35,poultry counter,3,1,6046,Boneless Skinless Chicken Breast
+57,35,poultry counter,3,2,17461,Air Chilled Organic Boneless Skinless Chicken Breasts
+57,35,poultry counter,3,3,9020,Boneless Skinless Chicken Thighs
+57,35,poultry counter,3,4,21927,Organic Boneless Skinless Chicken Breast
+57,35,poultry counter,4,0,35824,Boneless Chicken Breast
+57,35,poultry counter,4,1,9510,Chicken Breast Tenders
+57,35,poultry counter,4,2,27958,Chicken Drumsticks
+57,35,poultry counter,4,3,22476,Fresh Chicken Breast
+57,35,poultry counter,4,4,30918,Whole Chicken
+57,35,poultry counter,5,0,25634,Air Chilled Chicken Drumsticks
+57,35,poultry counter,5,1,24750,Organic Whole Fryer Chicken
+57,35,poultry counter,5,2,32320,Chicken Thigh
+57,35,poultry counter,5,3,30284,Kosher Chicken Thighs
+57,35,poultry counter,5,4,48235,Air Chilled Chicken Thighs
+57,35,poultry counter,6,0,6899,Boneless Skinless Chicken Breasts with Rib Meat
+57,35,poultry counter,6,1,49332,Split Chicken Breast
+57,35,poultry counter,6,2,11740,Boneless Skinless Thighs
+57,35,poultry counter,6,3,23012,Breast Tenders
+57,35,poultry counter,6,4,8914,Chicken Breast
+57,35,poultry counter,7,0,37018,Young Chicken
+57,35,poultry counter,7,1,6450,Skinless Boneless Chicken Thighs
+57,35,poultry counter,7,2,33785,Chicken Leg Quarters
+57,35,poultry counter,7,3,47802,Organic Chicken Breast
+57,35,poultry counter,7,4,11004,Whole Chicken Fryer
+58,114,cleaning products,0,0,27696,Multi Surface Vinegar Cleaner
+58,114,cleaning products,0,1,8136,Bathroom Cleaner Natural Tub + Tile Cleaner
+58,114,cleaning products,0,2,37634,Toilet Bowl Cleaner with Bleach Rain Clean
+58,114,cleaning products,0,3,14673,Natural Glass and Surface Cleaner
+58,114,cleaning products,0,4,26459,"All Purpose Cleaner, Lemon Breeze Scent"
+58,114,cleaning products,1,0,22565,"Disinfecting Wipes, Lemon Scent"
+58,114,cleaning products,1,1,717,Sweeper Open Window Fresh Scent Wet Mopping Cloths Refill
+58,114,cleaning products,1,2,42117,Original Glass Cleaner With Ammonia-D
+58,114,cleaning products,1,3,42075,Lavender Multi-Surface Everyday Cleaner
+58,114,cleaning products,1,4,32557,Plant Based Scrub Sponge
+58,114,cleaning products,2,0,48118,Max Gel Clog Remover
+58,114,cleaning products,2,1,48532,All Purpose Cleaner
+58,114,cleaning products,2,2,5586,Original Glass Cleaner
+58,114,cleaning products,2,3,36051,Glass Cleaner
+58,114,cleaning products,2,4,14872,All Natural Powder Cleanser
+58,114,cleaning products,3,0,21847,Lemongrass Citrus Scent Disinfecting Wipes
+58,114,cleaning products,3,1,6210,Kitchen Scrubber Sponge
+58,114,cleaning products,3,2,34287,"Disinfecting Wipes, Lemon"
+58,114,cleaning products,3,3,881,Heavy Duty Scrub Sponges
+58,114,cleaning products,3,4,20590,Disinfecting Wipes Fresh Scent
+58,114,cleaning products,4,0,500,Non-Scratch Scrub Sponges
+58,114,cleaning products,4,1,32939,Disinfecting Wipes Fresh Scent & Lemon
+58,114,cleaning products,4,2,45566,Clean Up Cleaner with Bleach Fresh Scent
+58,114,cleaning products,4,3,43194,Natural Cellulose Scrub Sponge
+58,114,cleaning products,4,4,23115,Disinfecting Multi-Surface Cleaner Lemongrass Citrus Scent
+58,114,cleaning products,5,0,11786,Free & Clear All-Purpose Natural Cleaner
+58,114,cleaning products,5,1,47253,Disinfecting Wet Wipes - Lemongrass Citrus
+58,114,cleaning products,5,2,28963,Naked Sponges - 2 CT
+58,114,cleaning products,5,3,45683,Heavy Duty Scrub Sponge
+58,114,cleaning products,5,4,34739,Pink Grapefruit All-Purpose Natural Surface Cleaner
+58,114,cleaning products,6,0,46672,Complete Clean Power Toilet Bowl Cleaner
+58,114,cleaning products,6,1,12086,"Antibacterial Kitchen All Purpose Spray Cleaner, Lemon Fresh"
+58,114,cleaning products,6,2,8366,Lemon Clean Furniture Spray
+58,114,cleaning products,6,3,39945,Magic Eraser Extra Power
+58,114,cleaning products,6,4,11308,Murphy Oil Soap Liquid Wood Cleaner
+58,114,cleaning products,7,0,49652,"Drain Cleaner, Fresh Citrus & Sage Fragrance"
+58,114,cleaning products,7,1,6689,Complete Clean Power Toilet Bowl Cleaner Value Pack
+58,114,cleaning products,7,2,20824,Lemon & Lime Blossom Scent Disinfecting Wipes
+58,114,cleaning products,7,3,26905,Abrasive Cleanser With Bleach
+58,114,cleaning products,7,4,11256,Original Magic Eraser
+59,49,packaged poultry,0,0,8512,Whole Young Chicken
+59,49,packaged poultry,0,1,21678,Fresh Chicken Thighs
+59,49,packaged poultry,0,2,17279,Fresh 99% Lean Ground Turkey
+59,49,packaged poultry,0,3,31388,Fresh Chicken Drumsticks
+59,49,packaged poultry,0,4,39975,Taco Seasoned Ground Turkey
+59,49,packaged poultry,1,0,36214,Turkey Burger Patties
+59,49,packaged poultry,1,1,23005,93% Lean Ground Turkey
+59,49,packaged poultry,1,2,7247,Organic Boneless Skinless Chicken Thighs
+59,49,packaged poultry,1,3,23,Organic Turkey Burgers
+59,49,packaged poultry,1,4,11874,"Italian Ground Turkey, Lean"
+59,49,packaged poultry,2,0,8590,Ground Turkey
+59,49,packaged poultry,2,1,4347,Extralean Ground Turkey Breast
+59,49,packaged poultry,2,2,47962,Fresh Ground Turkey
+59,49,packaged poultry,2,3,7877,Chicken Thighs
+59,49,packaged poultry,2,4,28590,Chicken Breast Cutlets
+59,49,packaged poultry,3,0,25890,Boneless Skinless Chicken Breasts
+59,49,packaged poultry,3,1,17878,Grilled Chicken Breast Strips
+59,49,packaged poultry,3,2,27360,Boneless Skinless Chicken Breast Fillets
+59,49,packaged poultry,3,3,43565,Lean Ground Turky
+59,49,packaged poultry,3,4,9210,Fresh Whole Chicken
+59,49,packaged poultry,4,0,40486,Chicken Tenders
+59,49,packaged poultry,4,1,49279,Turkey Store Lean Ground Turkey
+59,49,packaged poultry,4,2,7925,Extra Lean Ground Turkey Breast
+59,49,packaged poultry,4,3,30707,Organic Ground Chicken Breast
+59,49,packaged poultry,4,4,23198,Organic Chicken Drumsticks
+59,49,packaged poultry,5,0,33897,Chicken Wings
+59,49,packaged poultry,5,1,24114,Ground Chicken
+59,49,packaged poultry,5,2,26412,Fresh Lean Ground Turkey
+59,49,packaged poultry,5,3,14011,Oven Roasted Chicken Breast
+59,49,packaged poultry,5,4,11516,"Hot Italian, Lean Turkey Sausage"
+59,49,packaged poultry,6,0,22929,Dinosaur Shapes Chicken Breast Nuggets
+59,49,packaged poultry,6,1,48588,All Natural Ground Chicken
+59,49,packaged poultry,6,2,28823,Original Chicken Breast Nuggets
+59,49,packaged poultry,6,3,21822,Chicken Wings Family Pack
+59,49,packaged poultry,6,4,27096,Boneless & Skinless Chicken Breasts
+59,49,packaged poultry,7,0,33464,Fresh Boneless Skinless Chicken Breasts
+59,49,packaged poultry,7,1,18010,Organic Boneless Skinless Chicken Breasts
+59,49,packaged poultry,7,2,38190,Organic Drumsticks
+59,49,packaged poultry,7,3,35906,Boneless & Skinless Chicken Breast
+59,49,packaged poultry,7,4,782,"85% Lean, 15% Fat Ground Turkey (013021)"

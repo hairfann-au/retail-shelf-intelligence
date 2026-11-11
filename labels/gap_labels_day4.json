@@ -1,0 +1,168 @@
+{
+  "images": [
+    "test_1009.jpg",
+    "test_1137.jpg",
+    "test_1589.jpg",
+    "test_1745.jpg",
+    "test_1787.jpg",
+    "test_2330.jpg",
+    "test_2528.jpg",
+    "test_265.jpg",
+    "test_2809.jpg",
+    "test_412.jpg",
+    "test_561.jpg",
+    "test_668.jpg",
+    "test_721.jpg",
+    "test_766.jpg",
+    "test_842.jpg"
+  ],
+  "seed": 7,
+  "weights": "/home/azureuser/runs/full/weights/best.pt",
+  "labels": {
+    "test_1009.jpg": {
+      "real": [
+        1,
+        3
+      ],
+      "unsure": [],
+      "missed": 0,
+      "note": "cosmetic shelf"
+    },
+    "test_1137.jpg": {
+      "real": [],
+      "unsure": [],
+      "missed": 0,
+      "note": "home essentials shelf"
+    },
+    "test_1589.jpg": {
+      "real": [],
+      "unsure": [
+        2
+      ],
+      "missed": 4,
+      "note": "coffee shelf"
+    },
+    "test_1745.jpg": {
+      "real": [
+        3
+      ],
+      "unsure": [],
+      "missed": 0,
+      "note": "fragrance shelf"
+    },
+    "test_1787.jpg": {
+      "real": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "unsure": [],
+      "missed": 8,
+      "note": "bodycare shelf"
+    },
+    "test_2330.jpg": {
+      "real": [],
+      "unsure": [],
+      "missed": 0,
+      "note": ""
+    },
+    "test_2528.jpg": {
+      "real": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "unsure": [],
+      "missed": 1,
+      "note": ""
+    },
+    "test_265.jpg": {
+      "real": [
+        1,
+        4,
+        5
+      ],
+      "unsure": [],
+      "missed": 2,
+      "note": "fragrance shelf"
+    },
+    "test_2809.jpg": {
+      "real": [
+        2,
+        3
+      ],
+      "unsure": [
+        1
+      ],
+      "missed": 1,
+      "note": "energy drink shelf"
+    },
+    "test_412.jpg": {
+      "real": [
+        8,
+        10,
+        12,
+        14
+      ],
+      "unsure": [
+        2,
+        4
+      ],
+      "missed": 1,
+      "note": "soft drink shelf"
+    },
+    "test_561.jpg": {
+      "real": [],
+      "unsure": [],
+      "missed": 0,
+      "note": ""
+    },
+    "test_668.jpg": {
+      "real": [
+        1
+      ],
+      "unsure": [],
+      "missed": 2,
+      "note": "soft drink shelf"
+    },
+    "test_721.jpg": {
+      "real": [
+        1,
+        2
+      ],
+      "unsure": [],
+      "missed": 0,
+      "note": "oral care shelf"
+    },
+    "test_766.jpg": {
+      "real": [
+        1,
+        2,
+        4
+      ],
+      "unsure": [],
+      "missed": 10,
+      "note": "body care shelf"
+    },
+    "test_842.jpg": {
+      "real": [
+        12
+      ],
+      "unsure": [
+        4,
+        5
+      ],
+      "missed": 3,
+      "note": "soft drink shelf"
+    }
+  }
+}
