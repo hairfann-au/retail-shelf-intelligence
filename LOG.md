@@ -43,3 +43,19 @@
 - Results: 54 epochs (4-hour cap). Test (2,936 images): P 0.912 / R 0.869 / mAP50 0.931 / mAP50-95 0.583
   (smoke test val baseline: P 0.735 / R 0.623 / mAP50 0.674 / mAP50-95 0.345).
 - Logging: rewrote log_run_to_azure.py to batch metrics (the per-metric version took 10+ minutes for 54 epochs).
+
+## Day 4 (Wed 11 Nov 2026): gap check and basket mining
+- Hand-labelled 15 fresh test images (not used for tuning).
+  Gap level: precision 53% (95% CI 41-65%), recall 52% (40-63%).
+  Errors concentrated: 2 images give 60% of false gaps (precision 71% without them); 3 images give 69% of misses.
+  Bay level (secondary view): 11 of 13 flagged bays truly had empty slots; all 11 bays with empty slots flagged;
+  gap score vs empty slots Spearman 0.63 (p = 0.01).
+- Basket mining (500k orders, FP-Growth): aisle rules show shopping occasions (dips -> chips, lift 2.2; lunch meat
+  + yogurt -> cheese, conf 51%); top product rules by lift are flavour variants (Skyr, lift 74, 0.2% of orders),
+  so judged by leverage as well as lift.
+- Product metrics: fresh produce leads on reach, reorder rate and pull (Banana: 14.7% of orders, 85% reorders,
+  59 partners).
+- Simulated planogram: 60 aisles x 8 shelves x 5 positions, best sellers at eye level.
+
+- Failure types (gap check): (1) fridge door frames not removed: the fixture rule counted all rows in the photo, and angled shots slant the frames; (2) products hidden by glare or shadow left undetected; (3) steep aisle perspective: distant products are missed and small empty slots fall under the row's median width; (4) promo signs in slots.
+- v2 fixes planned for Day 6 (per-position row count, slanted alignment, neighbour-width threshold, low-confidence veto), evaluated on a second fresh set of 15 images.
